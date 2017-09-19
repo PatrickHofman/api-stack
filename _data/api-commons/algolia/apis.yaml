@@ -6,7 +6,7 @@ description: Algolia provides a hosted search API that allows websites and mobil
   allows easy ranking configuration for your data set. Algolia allows any developer
   to build the search engine they want quickly and easily and serves today more than
   5B queries per month with 99.99% SLA.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/algolia.png
+image: https://www.algolia.com/static_assets/images/press/downloads/algolia-logo-light.svg
 tags:
 - Stack Network
 - Search
@@ -19,7 +19,7 @@ apis:
 - name: Algolia
   description: Algolia provides a hosted search API that allows websites and mobile
     applications to increase user engagement and conversions
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/algolia.png
+  image: https://www.algolia.com/static_assets/images/press/downloads/algolia-logo-light.svg
   humanURL: http://www.algolia.com/doc/rest_api
   baseURL: http://www.algolia.com/doc/rest_api
   tags:
