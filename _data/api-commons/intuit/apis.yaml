@@ -7,6 +7,7 @@ description: 'The Intuit Partner Platform (IPP) is an open platform that enables
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intuit-partner-platform.png
 tags:
 - Stack Network
+- Stack
 - Road Map
 - Partners
 - Orange Report Financial
@@ -14,8 +15,8 @@ tags:
 - Finance
 - Accounting
 - Accounting
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/intuit/apis.yaml
 specificationVersion: "0.14"
 apis: []
@@ -30,8 +31,6 @@ x-common:
   url: https://developer.intuit.com/
 - type: x-github
   url: https://github.com/IntuitDeveloperRelations
-- type: x-partner
-  url: https://developer.intuit.com/partnerprogram
 - type: x-road-map
   url: https://developer.intuit.com/blog/2013/12/19/2014-roadmap-and-migration-dates-for-existing-developers
 - type: x-twitter
