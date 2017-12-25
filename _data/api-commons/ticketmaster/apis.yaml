@@ -2,7 +2,7 @@ name: Ticketmaster
 description: Buy tickets concerts, sports, arts, theater and other events. Find more
   tickets in store than ever before directly from venue and other fans with the guarantee
   the seat you buy is the seat you get only at Ticketmaster.com
-image: ""
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ticketmaster-logo.png
 tags:
 - Tickets
 - Stack
