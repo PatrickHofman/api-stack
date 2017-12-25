@@ -4,10 +4,11 @@ description: Integrate Office 365 REST APIs powered by Microsoft Graph into your
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-office.png
 tags:
 - Stack Network
+- Stack
 - Spreadsheets
 - Documents
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/microsoft-office/apis.yaml
 specificationVersion: "0.14"
 apis: []
