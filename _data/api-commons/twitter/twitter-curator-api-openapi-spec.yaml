@@ -1,0 +1,20 @@
+agger: "2.0"
+info:
+  title: Curator API
+  description: The Curator Broadcaster API is a private API that provides broadcasters
+    their Curator-created streams for on-air graphics systems (or other digital displays).
+  termsOfService: http://dev.twitter.com/overview/terms
+  contact:
+    name: Twitter
+    url: https://dev.twitter.com/discussions
+  version: "1"
+host: curator.twitter.com
+basePath: /broadcast/1/
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths: []
+definitions: []
