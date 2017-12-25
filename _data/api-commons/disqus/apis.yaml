@@ -4,104 +4,105 @@ description: 'Disqus (/du00ef-sku00fcs/) is an online discussion and commenting 
   platform includes various features, such as social integration, social networking,
   user profiles, spam and moderation tools, analytics, email notifications, and mobile
   commenting. '
-image: ""
+image: https://avatars.githubusercontent.com/u/317745?v=3
 tags:
 - Stack Network
+- Stack
 - Social
 - Partners
 - My API Stack
 - Content
 - Comments
-created: "2017-05-06"
-modified: "2017-05-06"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/disqus/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Disqus Blacklists API
   description: Disqus (/du00ef-sku00fcs/) is an online discussion and commenting service
     for websites and online communities that uses a networked platform
-  image: ""
+  image: https://avatars.githubusercontent.com/u/317745?v=3
   humanURL: https://disqus.com/
   baseURL: https://disqus.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/disqus/disqus-blacklists-api-openapi-spec.yaml
 - name: Disqus Categories API
   description: Disqus (/du00ef-sku00fcs/) is an online discussion and commenting service
     for websites and online communities that uses a networked platform
-  image: ""
+  image: https://avatars.githubusercontent.com/u/317745?v=3
   humanURL: https://disqus.com/
   baseURL: https://disqus.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/disqus/disqus-categories-api-openapi-spec.yaml
 - name: Disqus Forums API
   description: Disqus (/du00ef-sku00fcs/) is an online discussion and commenting service
     for websites and online communities that uses a networked platform
-  image: ""
+  image: https://avatars.githubusercontent.com/u/317745?v=3
   humanURL: https://disqus.com/
   baseURL: https://disqus.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/disqus/disqus-forums-api-openapi-spec.yaml
 - name: Disqus Imports API
   description: Disqus (/du00ef-sku00fcs/) is an online discussion and commenting service
     for websites and online communities that uses a networked platform
-  image: ""
+  image: https://avatars.githubusercontent.com/u/317745?v=3
   humanURL: https://disqus.com/
   baseURL: https://disqus.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/disqus/disqus-imports-api-openapi-spec.yaml
 - name: Disqus Posts API
   description: Disqus (/du00ef-sku00fcs/) is an online discussion and commenting service
     for websites and online communities that uses a networked platform
-  image: ""
+  image: https://avatars.githubusercontent.com/u/317745?v=3
   humanURL: https://disqus.com/
   baseURL: https://disqus.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/disqus/disqus-posts-api-openapi-spec.yaml
 - name: Disqus Threads API
   description: Disqus (/du00ef-sku00fcs/) is an online discussion and commenting service
     for websites and online communities that uses a networked platform
-  image: ""
+  image: https://avatars.githubusercontent.com/u/317745?v=3
   humanURL: https://disqus.com/
   baseURL: https://disqus.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/disqus/disqus-threads-api-openapi-spec.yaml
 - name: Disqus Users API
   description: Disqus (/du00ef-sku00fcs/) is an online discussion and commenting service
     for websites and online communities that uses a networked platform
-  image: ""
+  image: https://avatars.githubusercontent.com/u/317745?v=3
   humanURL: https://disqus.com/
   baseURL: https://disqus.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/disqus/disqus-users-api-openapi-spec.yaml
 - name: Disqus Whitelists API
   description: Disqus (/du00ef-sku00fcs/) is an online discussion and commenting service
     for websites and online communities that uses a networked platform
-  image: ""
+  image: https://avatars.githubusercontent.com/u/317745?v=3
   humanURL: https://disqus.com/
   baseURL: https://disqus.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/disqus/disqus-whitelists-api-openapi-spec.yaml
