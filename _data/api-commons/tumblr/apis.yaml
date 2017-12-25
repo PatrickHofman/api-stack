@@ -7,7 +7,7 @@ description: Tumblr is a re-envisioning of tumblelogging, a subset of blogging t
   u201cShare on Tumblru201d bookmarklet that then tumbles the snippet directly. The
   result is varied string of media ranging links and text to pictures and videos that
   takes very little time and effort to maintain.
-image: http://pbs.twimg.com/profile_images/744899971963588608/9GqSWMBf_normal.jpg
+image: http://assets.tumblr.com/images/logo_page/img_logotype_34465d_2x.png
 tags:
 - Stack
 - Social
@@ -24,7 +24,7 @@ apis:
 - name: Tumblr
   description: Tumblr is a re-envisioning of tumblelogging, a subset of blogging that
     uses quick, mixed-media posts
-  image: http://pbs.twimg.com/profile_images/744899971963588608/9GqSWMBf_normal.jpg
+  image: http://assets.tumblr.com/images/logo_page/img_logotype_34465d_2x.png
   humanURL: http://www.tumblr.com/
   baseURL: http://www.tumblr.com/
   tags:
