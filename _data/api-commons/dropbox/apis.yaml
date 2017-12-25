@@ -5,39 +5,39 @@ description: Dropbox is a file hosting service operated by Dropbox, Inc., that o
   so that it appears to be the same folder (with the same contents) regardless of
   which computer is used to view it. Files placed in this folder also are accessible
   through a website and mobile phone applications.
-image: ""
+image: https://avatars.githubusercontent.com/u/559357?v=3
 tags:
 - Storage
 - Storage
 - Storage
-- Stack Network
+- Stack
 - Sharing
 - My API Stack
 - Indie EdTech Data Jam
 - File Storage
 - API LIfeycle
-created: "2017-05-06"
-modified: "2017-05-06"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/dropbox/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Dropbox Core API
   description: Dropbox is a file hosting service operated by Dropbox, Inc
-  image: ""
+  image: https://avatars.githubusercontent.com/u/559357?v=3
   humanURL: https://www.dropbox.com/developers/core/docs
   baseURL: https://www.dropbox.com/developers/core/docs
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/dropbox/dropbox-core-api-openapi-spec.yaml
 - name: Dropbox for Business API
   description: Dropbox is a file hosting service operated by Dropbox, Inc
-  image: ""
+  image: https://avatars.githubusercontent.com/u/559357?v=3
   humanURL: https://www.dropbox.com/developers/business/docs
   baseURL: https://www.dropbox.com/developers/core/docs
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/dropbox/dropbox-for-business-api-openapi-spec.yaml
