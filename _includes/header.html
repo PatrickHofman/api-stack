@@ -7,3 +7,13 @@
     <li><a href="/feeds/blog/atom.xml" class="icon fa-rss"><span class="label">RSS</span></a></li>
   </ul>
 </header>
+
+<hr />
+<p align="center">
+  {% assign partners = site.data.sponsors.index %}
+  {% assign partners = partners | sample %}
+  <a href="{{ partners.url }}" target="_blank">
+    <img src="{{ partners.banner_url }}" width="50%" style="padding-top: 10px;" />
+  </a>
+</p>
+<hr />
