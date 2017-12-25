@@ -18,7 +18,6 @@ title: The API Stack
 
   {% assign path = api.url  | replace: site.raw_url,'' %}
   {% assign path = path  | replace: '/apis.yaml','' %}
-  path: {{ path }}<br />
   {% for api in contents %}
 
     {% assign api_name = api[0] %}
@@ -271,7 +270,7 @@ title: The API Stack
 
                             {% assign thisname = entry[0] %}
                             {% assign thisentry = entry[1] %}
-                            {{ thisname }} == {{ pathname }}<br />
+                            
                             {% if thisname == pathname %}
                               {% assign openapi_spec_json = entry[1] %}
                             {% endif %}
