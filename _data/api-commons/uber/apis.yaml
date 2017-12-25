@@ -10,12 +10,13 @@ tags:
 - Transit
 - Taxi
 - Stack Network
+- Stack
 - Cars
 - Autos
 - Automobile
 - API LIfeycle
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/uber/apis.yaml
 specificationVersion: "0.14"
 apis: []
@@ -34,8 +35,6 @@ x-common:
   url: https://github.com/uber
 - type: x-twitter
   url: https://twitter.com/uber_api
-- type: x-twitter
-  url: https://twitter.com/UberPubPolicy
 - type: x-website
   url: https://uber.com
 - type: x-portal
