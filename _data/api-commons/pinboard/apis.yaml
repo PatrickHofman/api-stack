@@ -3,45 +3,46 @@ description: Pinboard.In is a social bookmarking site that offers an easy import
   export in del.icio.us format,  Nightly database backups to S3,  Cached copies of
   all  bookmarks,  a u201cto readu201d status for later viewing, private bookmarks
   and private tags, and simplified bulk editing.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pinboard-icon.png
+image: https://avatars0.githubusercontent.com/u/2050436?v=4
 tags:
 - Stack Network
+- Stack
 - My API Stack
 - Links
 - Indie EdTech Data Jam
 - Bookmarks
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/pinboard/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Pinboard Posts API
   description: Pinboard
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pinboard-icon.png
-  humanURL: http://apis.how/c1pe4iyfw0
-  baseURL: http://apis.how/c1pe4iyfw0
+  image: https://avatars0.githubusercontent.com/u/2050436?v=4
+  humanURL: http://www.pinboard.in
+  baseURL: http://www.pinboard.in
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/pinboard/pinboard-posts-api-openapi-spec.yaml
 - name: Pinboard Tag API
   description: Pinboard
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pinboard-icon.png
+  image: https://avatars0.githubusercontent.com/u/2050436?v=4
   humanURL: https://pinboard.in/api/
-  baseURL: http://apis.how/c1pe4iyfw0
+  baseURL: http://www.pinboard.in
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/pinboard/pinboard-tag-api-openapi-spec.yaml
 - name: Pinboard User API
   description: Pinboard
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pinboard-icon.png
-  humanURL: http://apis.how/c1pe4iyfw0
-  baseURL: http://apis.how/c1pe4iyfw0
+  image: https://avatars0.githubusercontent.com/u/2050436?v=4
+  humanURL: http://www.pinboard.in
+  baseURL: http://www.pinboard.in
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/pinboard/pinboard-user-api-openapi-spec.yaml
