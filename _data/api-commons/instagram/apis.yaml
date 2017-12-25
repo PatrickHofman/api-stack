@@ -9,6 +9,7 @@ description: Instagram is an online mobile photo-sharing, video-sharing and soci
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/glyph-logo_May2016_200.png
 tags:
 - Stack Network
+- Stack
 - Social
 - Photo API
 - Photo
@@ -19,8 +20,8 @@ tags:
 - Change Log Example
 - Change Log
 - Advertising
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/instagram/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -30,10 +31,10 @@ apis:
     them on a variety of social networking platforms, such as Facebook, Twitter, Tumblr
     and Flickr
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/glyph-logo_May2016_200.png
-  humanURL: http://apis.how/sczbqbzkfv
-  baseURL: http://apis.how/sczbqbzkfv
+  humanURL: http://instagram.com
+  baseURL: http://instagram.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/instagram/instagram-geographies-api-openapi-spec.yaml
@@ -43,10 +44,10 @@ apis:
     them on a variety of social networking platforms, such as Facebook, Twitter, Tumblr
     and Flickr
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/glyph-logo_May2016_200.png
-  humanURL: http://apis.how/sczbqbzkfv
-  baseURL: http://apis.how/sczbqbzkfv
+  humanURL: http://instagram.com
+  baseURL: http://instagram.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/instagram/instagram-locations-api-openapi-spec.yaml
@@ -56,10 +57,10 @@ apis:
     them on a variety of social networking platforms, such as Facebook, Twitter, Tumblr
     and Flickr
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/glyph-logo_May2016_200.png
-  humanURL: http://apis.how/sczbqbzkfv
-  baseURL: http://apis.how/sczbqbzkfv
+  humanURL: http://instagram.com
+  baseURL: http://instagram.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/instagram/instagram-media-api-openapi-spec.yaml
@@ -69,10 +70,10 @@ apis:
     them on a variety of social networking platforms, such as Facebook, Twitter, Tumblr
     and Flickr
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/glyph-logo_May2016_200.png
-  humanURL: http://apis.how/sczbqbzkfv
-  baseURL: http://apis.how/sczbqbzkfv
+  humanURL: http://instagram.com
+  baseURL: http://instagram.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/instagram/instagram-tags-api-openapi-spec.yaml
@@ -82,10 +83,10 @@ apis:
     them on a variety of social networking platforms, such as Facebook, Twitter, Tumblr
     and Flickr
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/glyph-logo_May2016_200.png
-  humanURL: http://apis.how/sczbqbzkfv
-  baseURL: http://apis.how/sczbqbzkfv
+  humanURL: http://instagram.com
+  baseURL: http://instagram.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/instagram/instagram-users-api-openapi-spec.yaml
