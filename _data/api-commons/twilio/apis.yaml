@@ -1,14 +1,15 @@
-name: Twilio
+name: twilio
 description: Twilio, the cloud communications company, providing a telephony infrastructure
   web service in the cloud, allowing web developers to integrate phone calls, text
   messages and IP voice communications into their web, mobile and traditional phone
   applications.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
+image: https://avatars.githubusercontent.com/u/109142?v=3
 tags:
 - Voice
 - Voice
 - Telco
 - Stack Network
+- Stack
 - SMS API
 - SMS
 - Service Level Agreement
@@ -21,8 +22,8 @@ tags:
 - Messaging
 - Getting Started
 - API LIfeycle
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/twilio/apis.yaml
 specificationVersion: "0.14"
 apis: []
@@ -79,8 +80,6 @@ x-common:
   url: http://stackoverflow.com/questions/tagged/twilio
 - type: x-status-dashboard
   url: http://status.twilio.com/
-- type: x-status-rss
-  url: http://status.twilio.com/rss
 - type: x-terms-of-service-page
   url: https://www.twilio.com/legal/tos
 - type: x-trademarks
