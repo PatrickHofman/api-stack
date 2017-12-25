@@ -1,0 +1,219 @@
+name: Stack Exchange
+description: Stack Exchange is a network of question and answer websites on diverse
+  topics in many different fields, each site covering a specific topic, where questions,
+  answers, and users are subject to a reputation award process. The sites are modeled
+  after Stack Overflow, a forum for computer programming questions that was the original
+  site in this network. The reputation system is designed to allow the sites to be
+  self-moderating.
+image: https://avatars0.githubusercontent.com/u/1393171?v=4
+tags:
+- Stack
+- Question Answer
+- Plug in
+- My API Stack
+- Imports
+- Content
+- Code
+- Citations
+- Answers
+created: "2017-12-24"
+modified: "2017-12-24"
+url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stack-exchange/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: Stack Exchange Answers API
+  description: Stack Exchange is a network of question and answer websites on diverse
+    topics in many different fields, each site covering a specific topic, where questions,
+    answers, and users are subject to a reputation award process
+  image: https://avatars0.githubusercontent.com/u/1393171?v=4
+  humanURL: https://stackexchange.com/
+  baseURL: https://stackexchange.com/
+  tags:
+  - Stack
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stack-exchange/stack-exchange-answers-api-openapi-spec.yaml
+- name: Stack Exchange Badges API
+  description: Stack Exchange is a network of question and answer websites on diverse
+    topics in many different fields, each site covering a specific topic, where questions,
+    answers, and users are subject to a reputation award process
+  image: https://avatars0.githubusercontent.com/u/1393171?v=4
+  humanURL: https://stackexchange.com/
+  baseURL: https://stackexchange.com/
+  tags:
+  - Stack
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stack-exchange/stack-exchange-badges-api-openapi-spec.yaml
+- name: Stack Exchange Comments API
+  description: Stack Exchange is a network of question and answer websites on diverse
+    topics in many different fields, each site covering a specific topic, where questions,
+    answers, and users are subject to a reputation award process
+  image: https://avatars0.githubusercontent.com/u/1393171?v=4
+  humanURL: https://stackexchange.com/
+  baseURL: https://stackexchange.com/
+  tags:
+  - Stack
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stack-exchange/stack-exchange-comments-api-openapi-spec.yaml
+- name: Stack Exchange Events API
+  description: Stack Exchange is a network of question and answer websites on diverse
+    topics in many different fields, each site covering a specific topic, where questions,
+    answers, and users are subject to a reputation award process
+  image: https://avatars0.githubusercontent.com/u/1393171?v=4
+  humanURL: https://stackexchange.com/
+  baseURL: https://stackexchange.com/
+  tags:
+  - Stack
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stack-exchange/stack-exchange-events-api-openapi-spec.yaml
+- name: Stack Exchange Info API
+  description: Stack Exchange is a network of question and answer websites on diverse
+    topics in many different fields, each site covering a specific topic, where questions,
+    answers, and users are subject to a reputation award process
+  image: https://avatars0.githubusercontent.com/u/1393171?v=4
+  humanURL: https://stackexchange.com/
+  baseURL: https://stackexchange.com/
+  tags:
+  - Stack
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stack-exchange/stack-exchange-info-api-openapi-spec.yaml
+- name: Stack Exchange Posts API
+  description: Stack Exchange is a network of question and answer websites on diverse
+    topics in many different fields, each site covering a specific topic, where questions,
+    answers, and users are subject to a reputation award process
+  image: https://avatars0.githubusercontent.com/u/1393171?v=4
+  humanURL: https://stackexchange.com/
+  baseURL: https://stackexchange.com/
+  tags:
+  - Stack
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stack-exchange/stack-exchange-posts-api-openapi-spec.yaml
+- name: Stack Exchange Privileges API
+  description: Stack Exchange is a network of question and answer websites on diverse
+    topics in many different fields, each site covering a specific topic, where questions,
+    answers, and users are subject to a reputation award process
+  image: https://avatars0.githubusercontent.com/u/1393171?v=4
+  humanURL: https://stackexchange.com/
+  baseURL: https://stackexchange.com/
+  tags:
+  - Stack
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stack-exchange/stack-exchange-privileges-api-openapi-spec.yaml
+- name: Stack Exchange Questions API
+  description: Stack Exchange is a network of question and answer websites on diverse
+    topics in many different fields, each site covering a specific topic, where questions,
+    answers, and users are subject to a reputation award process
+  image: https://avatars0.githubusercontent.com/u/1393171?v=4
+  humanURL: https://stackexchange.com/
+  baseURL: https://stackexchange.com/
+  tags:
+  - Stack
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stack-exchange/stack-exchange-questions-api-openapi-spec.yaml
+- name: Stack Exchange Revisions API
+  description: Stack Exchange is a network of question and answer websites on diverse
+    topics in many different fields, each site covering a specific topic, where questions,
+    answers, and users are subject to a reputation award process
+  image: https://avatars0.githubusercontent.com/u/1393171?v=4
+  humanURL: https://stackexchange.com/
+  baseURL: https://stackexchange.com/
+  tags:
+  - Stack
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stack-exchange/stack-exchange-revisions-api-openapi-spec.yaml
+- name: Stack Exchange Search API
+  description: Stack Exchange is a network of question and answer websites on diverse
+    topics in many different fields, each site covering a specific topic, where questions,
+    answers, and users are subject to a reputation award process
+  image: https://avatars0.githubusercontent.com/u/1393171?v=4
+  humanURL: https://stackexchange.com/
+  baseURL: https://stackexchange.com/
+  tags:
+  - Stack
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stack-exchange/stack-exchange-search-api-openapi-spec.yaml
+- name: Stack Exchange Suggested Edits API
+  description: Stack Exchange is a network of question and answer websites on diverse
+    topics in many different fields, each site covering a specific topic, where questions,
+    answers, and users are subject to a reputation award process
+  image: https://avatars0.githubusercontent.com/u/1393171?v=4
+  humanURL: https://stackexchange.com/
+  baseURL: https://stackexchange.com/
+  tags:
+  - Stack
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stack-exchange/stack-exchange-suggested-edits-api-openapi-spec.yaml
+- name: Stack Exchange Tags API
+  description: Stack Exchange is a network of question and answer websites on diverse
+    topics in many different fields, each site covering a specific topic, where questions,
+    answers, and users are subject to a reputation award process
+  image: https://avatars0.githubusercontent.com/u/1393171?v=4
+  humanURL: https://stackexchange.com/
+  baseURL: https://stackexchange.com/
+  tags:
+  - Stack
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stack-exchange/stack-exchange-tags-api-openapi-spec.yaml
+- name: Stack Exchange Users API
+  description: Stack Exchange is a network of question and answer websites on diverse
+    topics in many different fields, each site covering a specific topic, where questions,
+    answers, and users are subject to a reputation award process
+  image: https://avatars0.githubusercontent.com/u/1393171?v=4
+  humanURL: https://stackexchange.com/
+  baseURL: https://stackexchange.com/
+  tags:
+  - Stack
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stack-exchange/stack-exchange-users-api-openapi-spec.yaml
+x-common:
+- type: x-base-url-for-api
+  url: https://api.stackexchange.com/
+- type: x-blog
+  url: http://stackexchange.com/blogs
+- type: x-blog-rss-feed
+  url: http://blog.stackoverflow.com/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/stack-exchange
+- type: x-developer-portal
+  url: http://api.stackexchange.com/
+- type: x-email
+  url: team+api@stackexchange.com
+- type: x-error-response-codes
+  url: https://api.stackexchange.com/docs/error-handling
+- type: x-github
+  url: https://github.com/StackExchange
+- type: x-privacy-policy-page
+  url: https://stackexchange.com/legal/privacy-policy
+- type: x-rate-limiting
+  url: https://api.stackexchange.com/docs/throttle
+- type: x-selfservice-registration
+  url: https://stackapps.com/users/login?returnurl=/apps/oauth/register
+- type: x-support-overview-page
+  url: https://stackexchange.com/about/contact
+- type: x-terms-of-service-page
+  url: http://stackexchange.com/legal/api-terms-of-use
+- type: x-twitter
+  url: https://twitter.com/StackExchange
+- type: x-website
+  url: https://stackexchange.com/
+- type: x-webinars
+  url: https://stackexchange.com/
+- type: x-portal
+  url: https://stackexchange.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
