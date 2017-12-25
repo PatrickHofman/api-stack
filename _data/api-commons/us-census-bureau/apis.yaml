@@ -1,6 +1,6 @@
 name: US Census Bureau
 description: The United States Census Bureau (officially the Bureau of the Census,
-  as defined in Title 13 U.S.C. u0026sect; 11) is a principal agency of the U.S. Federal
+  as defined in Title 13 U.S.C. sect; 11) is a principal agency of the U.S. Federal
   Statistical System responsible for producing data about the American people and
   economy. The primary mission of the Census Bureau is conducting the U.S. Census
   every ten years, which allocates the seats of the U.S. House of Representatives
@@ -13,6 +13,7 @@ tags:
 - Usa
 - Statistics
 - Stack Network
+- Stack
 - Population
 - Government
 - Federal Government
@@ -20,8 +21,8 @@ tags:
 - Demographics
 - Data JSON Target
 - Data
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/us-census-bureau/apis.yaml
 specificationVersion: "0.14"
 apis: []
