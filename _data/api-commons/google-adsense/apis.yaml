@@ -6,10 +6,11 @@ description: AdSense is a free, simple way to make money online by placing ads o
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-adsense.png
 tags:
 - Stack Network
+- Stack
 - Google APIs
 - Advertising
-created: "2017-05-06"
-modified: "2017-05-06"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/google-adsense/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -20,7 +21,7 @@ apis:
   humanURL: https://developers.google.com/adsense/host/
   baseURL: https://developers.google.com/adsense/host/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/google-adsense/google-adsense-host-api-openapi-spec.yaml
@@ -31,7 +32,7 @@ apis:
   humanURL: https://www.google.com/adsense/
   baseURL: https://developers.google.com/adsense/host/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/google-adsense/google-adsense-management-api-openapi-spec.yaml
