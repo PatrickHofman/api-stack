@@ -5,10 +5,11 @@ description: Google Analytics gives you the digital analytics tools you need to 
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
 tags:
 - Stack Network
+- Stack
 - Google APIs
 - Analysis
-created: "2017-05-06"
-modified: "2017-05-06"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/google-analytics/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -20,7 +21,7 @@ apis:
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.google.com/analytics/#?modal_active=none
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/google-analytics/google-analytics-api-openapi-spec.yaml
