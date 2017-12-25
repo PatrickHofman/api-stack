@@ -1,0 +1,42 @@
+name: Zillow
+description: Zillow, Inc. founded and operates Zillow.com ndash; a leading online
+  real estate marketplace dedicated to helping homeowners, buyers, sellers, renters,
+  real estate agents, mortgage professionals, landlords, and property managers find
+  and share vital information about homes, real estate, and mortgages. Zilow, Inc.
+  also operates Zillow Mortgage Marketplace and Zillow Mobile.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/540_logo.png
+tags:
+- Stack
+- Real Estate
+- Real Estate
+- Mortgage
+- Housing
+created: "2017-12-24"
+modified: "2017-12-24"
+url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/zillow/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.zillow.com/blog
+- type: x-blog-rss-feed
+  url: http://feeds.feedburner.com/ZillowBlog
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/zillow
+- type: x-developer-portal
+  url: http://www.zillow.com/howto/api/APIOverview.htm
+- type: x-github
+  url: https://github.com/zillow
+- type: x-twitter
+  url: https://twitter.com/zillow
+- type: x-website
+  url: http://www.zillow.com/
+- type: x-webinars
+  url: http://www.zillow.com/
+- type: x-portal
+  url: http://www.zillow.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
