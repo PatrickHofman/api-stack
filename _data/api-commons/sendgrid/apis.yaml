@@ -3,9 +3,10 @@ description: SendGrid is a cloud-based email service that delivers email on beha
   of companies to increase deliverability and improve customer communications integration
   with new or existing email systems is done via SMTP or through a REST API, providing
   metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam regulations.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/142_logo.png
+image: https://avatars.githubusercontent.com/u/181234?v=3
 tags:
 - Stack Network
+- Stack
 - Plans
 - Partners
 - Messaging
@@ -14,8 +15,8 @@ tags:
 - Email
 - Email
 - API LIfeycle
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/sendgrid/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -25,11 +26,11 @@ apis:
     with new or existing email systems is done via SMTP or through a REST API, providing
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/142_logo.png
+  image: https://avatars.githubusercontent.com/u/181234?v=3
   humanURL: http://docs.sendgrid.com/documentation/api/
   baseURL: http://docs.sendgrid.com/documentation/api/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/sendgrid/sendgrid-openapi-spec.yaml
@@ -39,11 +40,11 @@ apis:
     with new or existing email systems is done via SMTP or through a REST API, providing
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/142_logo.png
+  image: https://avatars.githubusercontent.com/u/181234?v=3
   humanURL: http://docs.sendgrid.com/documentation/api/customer-subuser-api/
   baseURL: http://docs.sendgrid.com/documentation/api/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/sendgrid/sendgrid-customer-subuser-openapi-spec.yaml
@@ -53,11 +54,11 @@ apis:
     with new or existing email systems is done via SMTP or through a REST API, providing
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/142_logo.png
+  image: https://avatars.githubusercontent.com/u/181234?v=3
   humanURL: http://docs.sendgrid.com/documentation/api/event-api/
   baseURL: http://docs.sendgrid.com/documentation/api/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/sendgrid/sendgrid-event-openapi-spec.yaml
@@ -67,11 +68,11 @@ apis:
     with new or existing email systems is done via SMTP or through a REST API, providing
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/142_logo.png
+  image: https://avatars.githubusercontent.com/u/181234?v=3
   humanURL: http://docs.sendgrid.com/documentation/api/parse-api-2/
   baseURL: http://docs.sendgrid.com/documentation/api/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/sendgrid/sendgrid-parse-openapi-spec.yaml
@@ -81,11 +82,11 @@ apis:
     with new or existing email systems is done via SMTP or through a REST API, providing
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/142_logo.png
+  image: https://avatars.githubusercontent.com/u/181234?v=3
   humanURL: http://docs.sendgrid.com/documentation/api/reseller-api/
   baseURL: http://docs.sendgrid.com/documentation/api/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/sendgrid/sendgrid-reseller-openapi-spec.yaml
@@ -95,11 +96,11 @@ apis:
     with new or existing email systems is done via SMTP or through a REST API, providing
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/142_logo.png
+  image: https://avatars.githubusercontent.com/u/181234?v=3
   humanURL: https://sendgrid.com/docs/API_Reference/SMTP_API/index.html
   baseURL: http://docs.sendgrid.com/documentation/api/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/sendgrid/sendgrid-smtp-openapi-spec.yaml
@@ -109,23 +110,19 @@ apis:
     with new or existing email systems is done via SMTP or through a REST API, providing
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/142_logo.png
+  image: https://avatars.githubusercontent.com/u/181234?v=3
   humanURL: https://sendgrid.com/docs/API_Reference/Web_API/index.html
   baseURL: http://docs.sendgrid.com/documentation/api/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/sendgrid/sendgrid-web-api-openapi-spec.yaml
 x-common:
 - type: x-c-sharp
   url: https://sendgrid.com/docs/Code_Examples/csharp.html
-- type: x-base-url-for-api
-  url: https://api.sendgrid.com
 - type: x-blog
   url: http://blog.sendgrid.com/
-- type: x-blog-rss-feed
-  url: http://feeds.feedburner.com/sendgrid/CDXr
 - type: x-contact-form
   url: https://sendgrid.com/contact
 - type: x-crunchbase
