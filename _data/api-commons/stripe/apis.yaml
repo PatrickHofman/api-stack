@@ -2,10 +2,11 @@ name: Stripe
 description: 'Stripe is a simple, developer-friendly way to accept payments online.
   They believe that enabling transactions on the web is a problem rooted in code,
   not finance, and they want to help put more websites in business. '
-image: https://stripe.com/img/about/logos/logos/black.png
+image: https://avatars1.githubusercontent.com/u/856813?v=4
 tags:
 - Stripe Stack
 - Stack Network
+- Stack
 - Payments
 - Payments
 - Payment API
@@ -16,18 +17,18 @@ tags:
 - Change Log
 - Billing
 - API LIfeycle
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stripe/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Stripe API
   description: Stripe is a simple, developer-friendly way to accept payments online
-  image: https://stripe.com/img/about/logos/logos/black.png
+  image: https://avatars1.githubusercontent.com/u/856813?v=4
   humanURL: https://stripe.com/
   baseURL: https://stripe.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/stripe/stripe-api-openapi-spec.yaml
