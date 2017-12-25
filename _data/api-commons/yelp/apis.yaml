@@ -6,17 +6,18 @@ description: Yelp connects people with great local businesses. Yelp was founded 
   Singapore, Poland and Turkey. Yelp had a monthly average of 86 million unique visitors
   in Q4 2012*. By the end of Q4 2012, Yelpers had written more than 36 million rich,
   local reviews, making Yelp the leading local guide for real word-of-mouth on everything
-  from boutiques and mechanics to restaurants and dentists. Yelpu2019s mobile application
+  from boutiques and mechanics to restaurants and dentists. Yelp's mobile application
   was used on 9.2 million unique mobile devices on a monthly average basis during
   Q4 2012.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/536_logo.png
 tags:
 - Stack Network
+- Stack
 - Places
 - Local
 - Business
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/yelp/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -26,7 +27,7 @@ apis:
   humanURL: http://www.yelp.com/developers
   baseURL: http://www.yelp.com/developers
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/yelp/yelp-openapi-spec.yaml
