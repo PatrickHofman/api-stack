@@ -2,7 +2,7 @@ name: Visa
 description: Visa is a global payments technology company that connects consumers,
   businesses, financial institutions, and governments to fast, secure and reliable
   electronic payments.
-image: ""
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/visa-logo.png
 tags:
 - Stack
 - Payments
