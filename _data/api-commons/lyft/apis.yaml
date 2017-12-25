@@ -8,9 +8,10 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 tags:
 - Transportation
 - Stack Network
+- Stack
 - Imports
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/lyft/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -19,10 +20,10 @@ apis:
     who need rides with drivers willing to provide rides using their own personal
     vehicles
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lyft-logo.png
-  humanURL: http://apis.how/geycs6wucp
-  baseURL: http://apis.how/geycs6wucp
+  humanURL: https://www.lyft.com/
+  baseURL: https://www.lyft.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/lyft/lyft-api-openapi-spec.yaml
