@@ -12,153 +12,152 @@ specificationVersion: "0.14"
 apis: []
 tags:
 - Stack
-- Stack
 include:
 - name: AWS EC2
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/aws-ec2/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/aws-ec2/apis.yaml
 - name: AWS RDS
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/aws-rds/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/aws-rds/apis.yaml
 - name: AWS S3
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/aws-s3/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/aws-s3/apis.yaml
 - name: Best Buy APIs
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/best-buy-apis/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/best-buy-apis/apis.yaml
 - name: Bit.ly
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/bitly/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/bitly/apis.yaml
 - name: Blizzard
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/blizzard/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/blizzard/apis.yaml
 - name: Box
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/box/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/box/apis.yaml
 - name: Discogs
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/discogs/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/discogs/apis.yaml
 - name: Disqus
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/disqus/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/disqus/apis.yaml
 - name: Dropbox
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/dropbox/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/dropbox/apis.yaml
 - name: Dwolla
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/dwolla/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/dwolla/apis.yaml
 - name: eBay
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/ebay/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/ebay/apis.yaml
 - name: Etsy
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/etsy/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/etsy/apis.yaml
 - name: Eventbrite
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/eventbrite/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/eventbrite/apis.yaml
 - name: Expedia
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/expedia/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/expedia/apis.yaml
 - name: Facebook
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/facebook/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/facebook/apis.yaml
 - name: FedEx
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/fedex/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/fedex/apis.yaml
 - name: Fitbit
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/fitbit/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/fitbit/apis.yaml
 - name: Flickr
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/flickr/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/flickr/apis.yaml
 - name: Foursquare
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/foursquare/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/foursquare/apis.yaml
 - name: GitHub
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/github/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/github/apis.yaml
 - name: Gmail
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/gmail/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/gmail/apis.yaml
 - name: Google Adsense
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/google-adsense/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/google-adsense/apis.yaml
 - name: Google Analytics
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/google-analytics/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/google-analytics/apis.yaml
 - name: Google Calendar
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/google-calendar/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/google-calendar/apis.yaml
 - name: Google Drive
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/google-drive/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/google-drive/apis.yaml
 - name: Google Maps
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/google-maps/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/google-maps/apis.yaml
 - name: Google Sheets
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/google-sheets/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/google-sheets/apis.yaml
 - name: Google Translate
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/google-translate/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/google-translate/apis.yaml
 - name: Guardian Data
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/guardian-data/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/guardian-data/apis.yaml
 - name: IBM Watson
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/ibm-watson/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/ibm-watson/apis.yaml
 - name: Imgur
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/imgur/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/imgur/apis.yaml
 - name: Instagram
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/instagram/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/instagram/apis.yaml
 - name: Intuit
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/intuit/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/intuit/apis.yaml
 - name: LinkedIn
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/linkedin/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/linkedin/apis.yaml
 - name: Lyft
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/lyft/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/lyft/apis.yaml
 - name: MailChimp
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/mailchimp/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/mailchimp/apis.yaml
 - name: Mapbox
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/mapbox/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/mapbox/apis.yaml
 - name: Marvel Comics
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/marvel-comics/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/marvel-comics/apis.yaml
 - name: MasterCard
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/mastercard/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/mastercard/apis.yaml
 - name: Meetup
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/meetup/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/meetup/apis.yaml
 - name: Microsoft Office
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/microsoft-office/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/microsoft-office/apis.yaml
 - name: National Aeronautics and Space Administration
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/national-aeronautics-and-space-administration/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/national-aeronautics-and-space-administration/apis.yaml
 - name: New York Times
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/new-york-times/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/new-york-times/apis.yaml
 - name: NPR
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/npr/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/npr/apis.yaml
 - name: PayPal
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/paypal/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/paypal/apis.yaml
 - name: Pinboard
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/pinboard/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/pinboard/apis.yaml
 - name: Pinterest
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/pinterest/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/pinterest/apis.yaml
 - name: Postmates
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/postmates/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/postmates/apis.yaml
 - name: Reddit
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/reddit/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/reddit/apis.yaml
 - name: Riot Games
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/riot-games/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/riot-games/apis.yaml
 - name: Salesforce
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/salesforce/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/salesforce/apis.yaml
 - name: SendGrid
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/sendgrid/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/sendgrid/apis.yaml
 - name: Slack
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/slack/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/slack/apis.yaml
 - name: SoundCloud
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/soundcloud/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/soundcloud/apis.yaml
 - name: Spotify
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/spotify/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/spotify/apis.yaml
 - name: Stack Exchange
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/stack-exchange/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/stack-exchange/apis.yaml
 - name: Stripe
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/stripe/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/stripe/apis.yaml
 - name: Ticketmaster
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/ticketmaster/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/ticketmaster/apis.yaml
 - name: Tumblr
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/tumblr/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/tumblr/apis.yaml
 - name: Twilio
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/twilio/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/twilio/apis.yaml
 - name: Twitter
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/twitter/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/twitter/apis.yaml
 - name: U.S. Postal Service
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/us-postal-service/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/us-postal-service/apis.yaml
 - name: Uber
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/uber/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/uber/apis.yaml
 - name: UPS
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/ups/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/ups/apis.yaml
 - name: US Census Bureau
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/us-census-bureau/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/us-census-bureau/apis.yaml
 - name: Vimeo
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/vimeo/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/vimeo/apis.yaml
 - name: Visa
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/visa/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/visa/apis.yaml
 - name: Walgreens
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/walgreens/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/walgreens/apis.yaml
 - name: Wikipedia
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/wikipedia/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/wikipedia/apis.yaml
 - name: WordPress.com
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/wordpresscom/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/wordpresscom/apis.yaml
 - name: Yelp
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/yelp/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/yelp/apis.yaml
 - name: YouTube
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/youtube/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/youtube/apis.yaml
 - name: Zillow
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/zillow/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/zillow/apis.yaml
