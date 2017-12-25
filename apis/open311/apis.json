@@ -1,4 +1,0 @@
----
-layout: none
----
-{% assign yaml_data = site.data.api-commons.open311.apis %}{% include apis_json_2.html %}

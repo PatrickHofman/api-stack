@@ -1,4 +1,0 @@
----
-layout: none
----
-{% assign yaml_data = site.data.api-commons.us-securities-and-exchange-commission.apis %}{% include apis_json_2.html %}

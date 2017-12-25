@@ -1,4 +1,0 @@
----
-layout: none
----
-{% assign yaml_data = site.data.api-commons.aws-certificate-manager.apis %}{% include apis_json_2.html %}

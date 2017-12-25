@@ -1,4 +1,0 @@
----
-layout: none
----
-{% assign yaml_data = site.data.api-commons.us-energy-information-administration.apis %}{% include apis_json_2.html %}

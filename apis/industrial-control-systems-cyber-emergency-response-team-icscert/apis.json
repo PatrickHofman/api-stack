@@ -1,4 +1,0 @@
----
-layout: none
----
-{% assign yaml_data = site.data.api-commons.industrial-control-systems-cyber-emergency-response-team-icscert.apis %}{% include apis_json_2.html %}

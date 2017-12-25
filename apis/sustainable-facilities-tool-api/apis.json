@@ -1,4 +1,0 @@
----
-layout: none
----
-{% assign yaml_data = site.data.api-commons.sustainable-facilities-tool-api.apis %}{% include apis_json_2.html %}

@@ -1,4 +1,0 @@
----
-layout: none
----
-{% assign yaml_data = site.data.api-commons.nordic-apis.apis %}{% include apis_json_2.html %}
