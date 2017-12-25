@@ -3,19 +3,20 @@ description: Amazon Simple Storage Service (Amazon S3) is object storage with a 
   web service interface to store and retrieve any amount of data from anywhere on
   the web. It is designed to deliver 99.999999999% durability, and scale past trillions
   of objects worldwide.nCustomers use S3 as a bulk repository, or data lake, for analytics;
-  backup u0026amp; recovery; disaster recovery; and serverless computing. Many cloud-native
+  backup amp; recovery; disaster recovery; and serverless computing. Many cloud-native
   applications even use S3 as primary storage.nIts simple to move large volumes of
-  data into or out of S3 with Amazonsu0026nbsp;cloud data migrationu0026nbsp;options.
-  Once data is stored in Amazon S3, it can be automatically tiered into lower cost,
-  longer-termu0026nbsp;cloud storageu0026nbsp;classes like S3 Standard - Infrequent
-  Access and Amazon Glacier for archiving.
+  data into or out of S3 with Amazonsnbsp;cloud data migrationnbsp;options. Once data
+  is stored in Amazon S3, it can be automatically tiered into lower cost, longer-termnbsp;cloud
+  storagenbsp;classes like S3 Standard - Infrequent Access and Amazon Glacier for
+  archiving.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AmazonS3.png
 tags:
 - Storage
 - Stack Network
+- Stack
 - Amazon Web Services
-created: "2017-05-06"
-modified: "2017-05-06"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/aws-s3/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -27,7 +28,7 @@ apis:
   humanURL: https://aws.amazon.com/s3/
   baseURL: https://aws.amazon.com/s3/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/aws-s3/aws-s3-openapi-spec.yaml
