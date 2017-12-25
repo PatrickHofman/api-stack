@@ -10,14 +10,15 @@ image: http://spotifypresscom.files.wordpress.com/2013/01/spotify-logo-primary-v
 tags:
 - Streaming
 - Stack Network
+- Stack
 - Music
 - Issues Example
 - Issues
 - Indie EdTech Data Jam
 - Change Log Example
 - Change Log
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/spotify/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -25,10 +26,10 @@ apis:
   description: Spotify has created a lightweight software application that allows
     instant listening to specific tracks or albums with virtually no buffering delay
   image: http://spotifypresscom.files.wordpress.com/2013/01/spotify-logo-primary-vertical-light-background-rgb.jpg
-  humanURL: http://apis.how/8dry4nzwn6
+  humanURL: http://www.spotify.com
   baseURL: https://api.spotify.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/spotify/spotify-album-api-openapi-spec.yaml
@@ -36,10 +37,10 @@ apis:
   description: Spotify has created a lightweight software application that allows
     instant listening to specific tracks or albums with virtually no buffering delay
   image: http://spotifypresscom.files.wordpress.com/2013/01/spotify-logo-primary-vertical-light-background-rgb.jpg
-  humanURL: http://apis.how/8dry4nzwn6
+  humanURL: http://www.spotify.com
   baseURL: https://api.spotify.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/spotify/spotify-artist-api-openapi-spec.yaml
@@ -47,10 +48,10 @@ apis:
   description: Spotify has created a lightweight software application that allows
     instant listening to specific tracks or albums with virtually no buffering delay
   image: http://spotifypresscom.files.wordpress.com/2013/01/spotify-logo-primary-vertical-light-background-rgb.jpg
-  humanURL: http://apis.how/8dry4nzwn6
+  humanURL: http://www.spotify.com
   baseURL: https://api.spotify.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/spotify/spotify-browse-music-api-openapi-spec.yaml
@@ -58,10 +59,10 @@ apis:
   description: Spotify has created a lightweight software application that allows
     instant listening to specific tracks or albums with virtually no buffering delay
   image: http://spotifypresscom.files.wordpress.com/2013/01/spotify-logo-primary-vertical-light-background-rgb.jpg
-  humanURL: http://apis.how/8dry4nzwn6
+  humanURL: http://www.spotify.com
   baseURL: https://api.spotify.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/spotify/spotify-me-api-openapi-spec.yaml
@@ -72,7 +73,7 @@ apis:
   humanURL: http://developer.spotify.com/en/metadata-api/overview/
   baseURL: https://api.spotify.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/spotify/spotify-metadata-openapi-spec.yaml
@@ -80,10 +81,10 @@ apis:
   description: Spotify has created a lightweight software application that allows
     instant listening to specific tracks or albums with virtually no buffering delay
   image: http://spotifypresscom.files.wordpress.com/2013/01/spotify-logo-primary-vertical-light-background-rgb.jpg
-  humanURL: http://apis.how/8dry4nzwn6
+  humanURL: http://www.spotify.com
   baseURL: https://api.spotify.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/spotify/spotify-search-api-openapi-spec.yaml
@@ -91,10 +92,10 @@ apis:
   description: Spotify has created a lightweight software application that allows
     instant listening to specific tracks or albums with virtually no buffering delay
   image: http://spotifypresscom.files.wordpress.com/2013/01/spotify-logo-primary-vertical-light-background-rgb.jpg
-  humanURL: http://apis.how/8dry4nzwn6
+  humanURL: http://www.spotify.com
   baseURL: https://api.spotify.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/spotify/spotify-tracks-api-openapi-spec.yaml
@@ -102,10 +103,10 @@ apis:
   description: Spotify has created a lightweight software application that allows
     instant listening to specific tracks or albums with virtually no buffering delay
   image: http://spotifypresscom.files.wordpress.com/2013/01/spotify-logo-primary-vertical-light-background-rgb.jpg
-  humanURL: http://apis.how/8dry4nzwn6
+  humanURL: http://www.spotify.com
   baseURL: https://api.spotify.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/spotify/spotify-users-api-openapi-spec.yaml
