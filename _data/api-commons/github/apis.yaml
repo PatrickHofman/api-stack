@@ -3,7 +3,7 @@ description: GitHub is a social network for programmers. Git is a distributed so
   management program created by Linus Torvalds, originally for the Linux Kernel Development.
   GitHub is a hosted Git repository. Github allows you to take part in collaboration
   by forking projects, sending and pulling requests, and monitoring development.
-image: http://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png
+image: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
 tags:
 - Stack Network
 - Stack
@@ -28,7 +28,7 @@ specificationVersion: "0.14"
 apis:
 - name: Github Accounts API
   description: GitHub is a social network for programmers
-  image: http://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png
+  image: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
   humanURL: https://github.com
   baseURL: https://github.com
   tags:
@@ -38,7 +38,7 @@ apis:
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/github/github-accounts-api-openapi-spec.yaml
 - name: Github Events API
   description: GitHub is a social network for programmers
-  image: http://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png
+  image: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
   humanURL: https://github.com
   baseURL: https://github.com
   tags:
@@ -48,7 +48,7 @@ apis:
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/github/github-events-api-openapi-spec.yaml
 - name: Github Gists API
   description: GitHub is a social network for programmers
-  image: http://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png
+  image: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
   humanURL: https://github.com
   baseURL: https://github.com
   tags:
@@ -58,7 +58,7 @@ apis:
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/github/github-gists-api-openapi-spec.yaml
 - name: Github Issues API
   description: GitHub is a social network for programmers
-  image: http://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png
+  image: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
   humanURL: https://github.com
   baseURL: https://github.com
   tags:
@@ -68,7 +68,7 @@ apis:
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/github/github-issues-api-openapi-spec.yaml
 - name: Github Networks API
   description: GitHub is a social network for programmers
-  image: http://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png
+  image: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
   humanURL: https://github.com
   baseURL: https://github.com
   tags:
@@ -78,7 +78,7 @@ apis:
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/github/github-networks-api-openapi-spec.yaml
 - name: Github Organzations API
   description: GitHub is a social network for programmers
-  image: http://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png
+  image: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
   humanURL: https://github.com
   baseURL: https://github.com
   tags:
@@ -88,7 +88,7 @@ apis:
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/github/github-organzations-api-openapi-spec.yaml
 - name: Github Reports API
   description: GitHub is a social network for programmers
-  image: http://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png
+  image: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
   humanURL: https://github.com
   baseURL: https://github.com
   tags:
@@ -98,7 +98,7 @@ apis:
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/github/github-reports-api-openapi-spec.yaml
 - name: Github Repositories API
   description: GitHub is a social network for programmers
-  image: http://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png
+  image: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
   humanURL: https://github.com
   baseURL: https://github.com
   tags:
@@ -108,7 +108,7 @@ apis:
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/github/github-repositories-api-openapi-spec.yaml
 - name: Github Teams API
   description: GitHub is a social network for programmers
-  image: http://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png
+  image: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
   humanURL: https://github.com
   baseURL: https://github.com
   tags:
@@ -118,7 +118,7 @@ apis:
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/github/github-teams-api-openapi-spec.yaml
 - name: Github Users API
   description: GitHub is a social network for programmers
-  image: http://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png
+  image: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
   humanURL: https://github.com
   baseURL: https://github.com
   tags:
