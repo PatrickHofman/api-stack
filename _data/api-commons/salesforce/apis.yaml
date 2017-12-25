@@ -6,10 +6,11 @@ description: Salesforce.com Inc. is a global enterprise software company headqua
   magazine, as well as number 27 in Fortunes magazines 100 Best Companies to Work
   For in 2012. As of April 2013, the company is ranked sixth in providing services
   in marketing and customer service automation
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/salesforce-logo.png
+image: https://avatars.githubusercontent.com/u/453694?v=3
 tags:
 - Wearables
 - Stack Network
+- Stack
 - Spreadsheets
 - Sales
 - Partners
@@ -21,48 +22,48 @@ tags:
 - Customer
 - CRM
 - BaaS
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/salesforce/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Salesforce.com Chatter
   description: Salesforce
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/salesforce-logo.png
+  image: https://avatars.githubusercontent.com/u/453694?v=3
   humanURL: http://www.salesforce.com/us/developer/docs/chatterapi/index.htm
   baseURL: http://www.salesforce.com/us/developer/docs/chatterapi/index.htm
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/salesforce/salesforcecom-chatter-openapi-spec.yaml
 - name: Salesforce.com Streaming
   description: Salesforce
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/salesforce-logo.png
+  image: https://avatars.githubusercontent.com/u/453694?v=3
   humanURL: http://www.salesforce.com/us/developer/docs/api_streaming/index.htm
   baseURL: http://www.salesforce.com/us/developer/docs/chatterapi/index.htm
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/salesforce/salesforcecom-streaming-openapi-spec.yaml
 - name: Salesforce1 Platform
   description: Salesforce
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/salesforce-logo.png
+  image: https://avatars.githubusercontent.com/u/453694?v=3
   humanURL: http://developer.force.com/
   baseURL: http://www.salesforce.com/us/developer/docs/chatterapi/index.htm
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/salesforce/salesforce1-platform-openapi-spec.yaml
 - name: Samepoint Real-Time Social Media
   description: Salesforce
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/salesforce-logo.png
+  image: https://avatars.githubusercontent.com/u/453694?v=3
   humanURL: http://api.samepoint.com/
   baseURL: http://www.salesforce.com/us/developer/docs/chatterapi/index.htm
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/salesforce/samepoint-realtime-social-media-openapi-spec.yaml
