@@ -4,76 +4,77 @@ description: Bitly is a URL shortening service. The company Bitly, Inc. was esta
   links per month,[2] for use in social networking, SMS, and email. Bitly makes money
   by charging for access to aggregate data created as a result of many people using
   the shortened URLs.
-image: http://static.bitly.com/graphics/logo/bitly_logo.png
+image: http://pbs.twimg.com/profile_images/683712665785647104/x-DbhwSq_normal.png
 tags:
 - URL Shortener
 - Stack Network
+- Stack
 - My API Stack
 - Links
 - Link
 - Data
-created: "2017-05-06"
-modified: "2017-05-06"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/bitly/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Bitly Domains API
   description: Bitly is a URL shortening service
-  image: http://static.bitly.com/graphics/logo/bitly_logo.png
+  image: http://pbs.twimg.com/profile_images/683712665785647104/x-DbhwSq_normal.png
   humanURL: http://dev.bitly.com/data_apis.html
   baseURL: http://dev.bitly.com/data_apis.html
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/bitly/bitly-domains-api-openapi-spec.yaml
 - name: Bitly Link API
   description: Bitly is a URL shortening service
-  image: http://static.bitly.com/graphics/logo/bitly_logo.png
+  image: http://pbs.twimg.com/profile_images/683712665785647104/x-DbhwSq_normal.png
   humanURL: http://dev.bitly.com/api.html
   baseURL: http://dev.bitly.com/data_apis.html
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/bitly/bitly-link-api-openapi-spec.yaml
 - name: Bitly Link Metrics API
   description: Bitly is a URL shortening service
-  image: http://static.bitly.com/graphics/logo/bitly_logo.png
+  image: http://pbs.twimg.com/profile_images/683712665785647104/x-DbhwSq_normal.png
   humanURL: http://dev.bitly.com/data_apis.html
   baseURL: http://dev.bitly.com/data_apis.html
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/bitly/bitly-link-metrics-api-openapi-spec.yaml
 - name: Bitly Organization Metric API
   description: Bitly is a URL shortening service
-  image: http://static.bitly.com/graphics/logo/bitly_logo.png
+  image: http://pbs.twimg.com/profile_images/683712665785647104/x-DbhwSq_normal.png
   humanURL: http://dev.bitly.com/data_apis.html
   baseURL: http://dev.bitly.com/data_apis.html
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/bitly/bitly-organization-metric-api-openapi-spec.yaml
 - name: Bitly User API
   description: Bitly is a URL shortening service
-  image: http://static.bitly.com/graphics/logo/bitly_logo.png
+  image: http://pbs.twimg.com/profile_images/683712665785647104/x-DbhwSq_normal.png
   humanURL: http://dev.bitly.com/data_apis.html
   baseURL: http://dev.bitly.com/data_apis.html
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/bitly/bitly-user-api-openapi-spec.yaml
 - name: Bitly User Metrics API
   description: Bitly is a URL shortening service
-  image: http://static.bitly.com/graphics/logo/bitly_logo.png
+  image: http://pbs.twimg.com/profile_images/683712665785647104/x-DbhwSq_normal.png
   humanURL: http://dev.bitly.com/data_apis.html
   baseURL: http://dev.bitly.com/data_apis.html
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/bitly/bitly-user-metrics-api-openapi-spec.yaml
