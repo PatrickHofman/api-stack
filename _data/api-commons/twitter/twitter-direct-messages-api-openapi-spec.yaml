@@ -1,0 +1,19 @@
+agger: "2.0"
+info:
+  title: Twitter Direct Messages API
+  description: This is the endpoint for direct messages.
+  termsOfService: http://dev.twitter.com/overview/terms
+  contact:
+    name: Twitter
+    email: https://dev.twitter.com/discussions
+  version: "1.1"
+host: api.twitter.com
+basePath: /1.1
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths: []
+definitions: []
