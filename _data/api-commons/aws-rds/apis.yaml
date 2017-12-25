@@ -1,28 +1,28 @@
 name: AWS RDS
 description: Amazon Relational Database Service (Amazon RDS) makes it easy to set
-  up, operate, and scale au0026nbsp;relational databaseu0026nbsp;in the cloud. It
-  provides cost-efficient and resizable capacity while managing time-consuming database
-  administration tasks, freeing you up to focus on your applications and business.
-  Amazon RDS provides you six familiar database engines to choose from, includingu0026nbsp;Amazon
-  Aurora,u0026nbsp;PostgreSQL,u0026nbsp;MySQL,u0026nbsp;MariaDB,u0026nbsp;Oracle,
-  andu0026nbsp;Microsoft SQL Server.
+  up, operate, and scale anbsp;relational databasenbsp;in the cloud. It provides cost-efficient
+  and resizable capacity while managing time-consuming database administration tasks,
+  freeing you up to focus on your applications and business. Amazon RDS provides you
+  six familiar database engines to choose from, includingnbsp;Amazon Aurora,nbsp;PostgreSQL,nbsp;MySQL,nbsp;MariaDB,nbsp;Oracle,
+  andnbsp;Microsoft SQL Server.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonRDS.png
 tags:
 - Stack Network
+- Stack
 - Amazon Web Services
-created: "2017-05-06"
-modified: "2017-05-06"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/aws-rds/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Amazon RDS API
   description: Amazon Relational Database Service (Amazon RDS) makes it easy to set
-    up, operate, and scale au0026nbsp;relational databaseu0026nbsp;in the cloud
+    up, operate, and scale anbsp;relational databasenbsp;in the cloud
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonRDS.png
   humanURL: https://aws.amazon.com/rds/
   baseURL: https://aws.amazon.com/rds/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/aws-rds/amazon-rds-api-openapi-spec.yaml
@@ -33,8 +33,6 @@ x-common:
   url: http://developer.amazonwebservices.com/connect/kbcategory.jspa?categoryID=291
 - type: x-code-builder
   url: http://developer.amazonwebservices.com/connect/kbcategory.jspa?categoryID=293
-- type: x-command-line-interface
-  url: http://docs.aws.amazon.com/AmazonRDS/latest/CommandLineReference/
 - type: x-documentation
   url: http://docs.aws.amazon.com/AmazonRDS/latest/APIReference/
 - type: x-faq
