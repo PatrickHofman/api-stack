@@ -11,10 +11,11 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 tags:
 - Translation
 - Stack Network
+- Stack
 - Language
 - Google APIs
-created: "2017-05-06"
-modified: "2017-05-06"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/google-translate/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -25,7 +26,7 @@ apis:
   humanURL: https://translate.google.com/
   baseURL: https://translate.google.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/google-translate/google-translate-api-openapi-spec.yaml
