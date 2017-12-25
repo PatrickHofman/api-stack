@@ -1,0 +1,16 @@
+agger: "2.0"
+info:
+  title: Stack Exchange Answers API
+  description: The API for working with Stack Exchange answers.
+  termsOfService: http://stackexchange.com/legal/api-terms-of-use
+  version: 1.0.0
+host: api.stackexchange.com
+basePath: /2.2
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths: []
+definitions: []
