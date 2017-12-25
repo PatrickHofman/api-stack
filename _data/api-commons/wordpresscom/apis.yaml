@@ -7,6 +7,7 @@ description: WordPress, which is commonly used to refer to all WordPress product
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/969_logo.png
 tags:
 - Stack Network
+- Stack
 - Indie EdTech Data Jam
 - Content Management
 - Content
@@ -14,8 +15,8 @@ tags:
 - CMS
 - Blogging
 - API LIfeycle
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/wordpresscom/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -23,10 +24,10 @@ apis:
   description: WordPress, which is commonly used to refer to all WordPress products,
     is the most popular and fastest growing publishing platform on the web
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/969_logo.png
-  humanURL: http://apis.how/ihixikkpph
-  baseURL: http://apis.how/ihixikkpph
+  humanURL: http://wordpress.com
+  baseURL: http://wordpress.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/wordpresscom/wordpressorg-categories-api-openapi-spec.yaml
@@ -34,10 +35,10 @@ apis:
   description: WordPress, which is commonly used to refer to all WordPress products,
     is the most popular and fastest growing publishing platform on the web
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/969_logo.png
-  humanURL: http://apis.how/ihixikkpph
-  baseURL: http://apis.how/ihixikkpph
+  humanURL: http://wordpress.com
+  baseURL: http://wordpress.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/wordpresscom/wordpressorg-comments-api-openapi-spec.yaml
@@ -45,10 +46,10 @@ apis:
   description: WordPress, which is commonly used to refer to all WordPress products,
     is the most popular and fastest growing publishing platform on the web
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/969_logo.png
-  humanURL: http://apis.how/ihixikkpph
-  baseURL: http://apis.how/ihixikkpph
+  humanURL: http://wordpress.com
+  baseURL: http://wordpress.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/wordpresscom/wordpressorg-media-api-openapi-spec.yaml
@@ -56,10 +57,10 @@ apis:
   description: WordPress, which is commonly used to refer to all WordPress products,
     is the most popular and fastest growing publishing platform on the web
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/969_logo.png
-  humanURL: http://apis.how/ihixikkpph
-  baseURL: http://apis.how/ihixikkpph
+  humanURL: http://wordpress.com
+  baseURL: http://wordpress.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/wordpresscom/wordpressorg-pages-api-openapi-spec.yaml
@@ -68,9 +69,9 @@ apis:
     is the most popular and fastest growing publishing platform on the web
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/969_logo.png
   humanURL: http://v2.wp-api.org
-  baseURL: http://apis.how/ihixikkpph
+  baseURL: http://wordpress.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/wordpresscom/wordpressorg-post-api-openapi-spec.yaml
@@ -78,10 +79,10 @@ apis:
   description: WordPress, which is commonly used to refer to all WordPress products,
     is the most popular and fastest growing publishing platform on the web
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/969_logo.png
-  humanURL: http://apis.how/ihixikkpph
-  baseURL: http://apis.how/ihixikkpph
+  humanURL: http://wordpress.com
+  baseURL: http://wordpress.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/wordpresscom/wordpressorg-tags-api-openapi-spec.yaml
@@ -89,10 +90,10 @@ apis:
   description: WordPress, which is commonly used to refer to all WordPress products,
     is the most popular and fastest growing publishing platform on the web
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/969_logo.png
-  humanURL: http://apis.how/ihixikkpph
-  baseURL: http://apis.how/ihixikkpph
+  humanURL: http://wordpress.com
+  baseURL: http://wordpress.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/wordpresscom/wordpressorg-taxonomies-api-openapi-spec.yaml
@@ -100,10 +101,10 @@ apis:
   description: WordPress, which is commonly used to refer to all WordPress products,
     is the most popular and fastest growing publishing platform on the web
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/969_logo.png
-  humanURL: http://apis.how/ihixikkpph
-  baseURL: http://apis.how/ihixikkpph
+  humanURL: http://wordpress.com
+  baseURL: http://wordpress.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/wordpresscom/wordpressorg-users-api-openapi-spec.yaml
@@ -117,7 +118,7 @@ x-common:
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/wordpress
 - type: x-developer-portal
-  url: http://develop.wordpress.com/
+  url: https://developer.wordpress.com
 - type: x-github
   url: https://github.com/wordpress
 - type: x-twitter
