@@ -134,7 +134,7 @@ include:
   url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/ticketmaster/apis.yaml
 - name: Tumblr
   url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/tumblr/apis.yaml
-- name: twilio
+- name: Twilio
   url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/twilio/apis.yaml
 - name: Twitter
   url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/twitter/apis.yaml
