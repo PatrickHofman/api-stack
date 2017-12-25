@@ -1,17 +1,17 @@
 name: U.S. Postal Service
-description: USPS Web Toolsu0026reg; are ecommerce application program interfaces
-  (APIs) that can be used for online stores or customer service centersu0026mdash;free
-  of charge.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/usps_logo.gif
+description: USPS Web Toolsreg; are ecommerce application program interfaces (APIs)
+  that can be used for online stores or customer service centersmdash;free of charge.
+image: http://pbs.twimg.com/profile_images/460880152520454144/90ieWtNy_normal.png
 tags:
 - Stack Network
+- Stack
 - Shipping
 - Shipping
 - Mail
 - Government
 - Federal Government
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/us-postal-service/apis.yaml
 specificationVersion: "0.14"
 apis: []
