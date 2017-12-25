@@ -7,6 +7,7 @@ description: Reddit /u02c8ru025bdu026at/, stylized as reddit, is an entertainmen
 image: http://www.redditstatic.com/about/assets/reddit-logo.png
 tags:
 - Stack Network
+- Stack
 - Social
 - Social
 - News
@@ -14,8 +15,8 @@ tags:
 - My API Stack
 - Links
 - Evangelism
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -24,10 +25,10 @@ apis:
     social networking service and news website where registered community members
     can submit content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: http://apis.how/lloyjdxwhd
-  baseURL: http://apis.how/lloyjdxwhd
+  humanURL: http://www.reddit.com
+  baseURL: http://www.reddit.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/reddit-account-api-openapi-spec.yaml
@@ -36,10 +37,10 @@ apis:
     social networking service and news website where registered community members
     can submit content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: http://apis.how/lloyjdxwhd
-  baseURL: http://apis.how/lloyjdxwhd
+  humanURL: http://www.reddit.com
+  baseURL: http://www.reddit.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/reddit-catpcha-api-openapi-spec.yaml
@@ -48,10 +49,10 @@ apis:
     social networking service and news website where registered community members
     can submit content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: http://apis.how/lloyjdxwhd
-  baseURL: http://apis.how/lloyjdxwhd
+  humanURL: http://www.reddit.com
+  baseURL: http://www.reddit.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/reddit-flair-api-openapi-spec.yaml
@@ -60,10 +61,10 @@ apis:
     social networking service and news website where registered community members
     can submit content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: http://apis.how/lloyjdxwhd
-  baseURL: http://apis.how/lloyjdxwhd
+  humanURL: http://www.reddit.com
+  baseURL: http://www.reddit.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/reddit-gold-api-openapi-spec.yaml
@@ -72,10 +73,10 @@ apis:
     social networking service and news website where registered community members
     can submit content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: http://apis.how/lloyjdxwhd
-  baseURL: http://apis.how/lloyjdxwhd
+  humanURL: http://www.reddit.com
+  baseURL: http://www.reddit.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/reddit-links--comments-api-openapi-spec.yaml
@@ -84,10 +85,10 @@ apis:
     social networking service and news website where registered community members
     can submit content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: http://apis.how/lloyjdxwhd
-  baseURL: http://apis.how/lloyjdxwhd
+  humanURL: http://www.reddit.com
+  baseURL: http://www.reddit.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/reddit-listings-api-openapi-spec.yaml
@@ -96,10 +97,10 @@ apis:
     social networking service and news website where registered community members
     can submit content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: http://apis.how/lloyjdxwhd
-  baseURL: http://apis.how/lloyjdxwhd
+  humanURL: http://www.reddit.com
+  baseURL: http://www.reddit.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/reddit-live-threads-api-openapi-spec.yaml
@@ -108,10 +109,10 @@ apis:
     social networking service and news website where registered community members
     can submit content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: http://apis.how/lloyjdxwhd
-  baseURL: http://apis.how/lloyjdxwhd
+  humanURL: http://www.reddit.com
+  baseURL: http://www.reddit.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/reddit-miscellaneous-api-openapi-spec.yaml
@@ -120,10 +121,10 @@ apis:
     social networking service and news website where registered community members
     can submit content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: http://apis.how/lloyjdxwhd
-  baseURL: http://apis.how/lloyjdxwhd
+  humanURL: http://www.reddit.com
+  baseURL: http://www.reddit.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/reddit-moderation-api-openapi-spec.yaml
@@ -132,10 +133,10 @@ apis:
     social networking service and news website where registered community members
     can submit content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: http://apis.how/lloyjdxwhd
-  baseURL: http://apis.how/lloyjdxwhd
+  humanURL: http://www.reddit.com
+  baseURL: http://www.reddit.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/reddit-multis-api-openapi-spec.yaml
@@ -144,10 +145,10 @@ apis:
     social networking service and news website where registered community members
     can submit content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: http://apis.how/lloyjdxwhd
-  baseURL: http://apis.how/lloyjdxwhd
+  humanURL: http://www.reddit.com
+  baseURL: http://www.reddit.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/reddit-private-messages-api-openapi-spec.yaml
@@ -156,10 +157,10 @@ apis:
     social networking service and news website where registered community members
     can submit content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: http://apis.how/lloyjdxwhd
-  baseURL: http://apis.how/lloyjdxwhd
+  humanURL: http://www.reddit.com
+  baseURL: http://www.reddit.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/reddit-search-api-openapi-spec.yaml
@@ -168,10 +169,10 @@ apis:
     social networking service and news website where registered community members
     can submit content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: http://apis.how/lloyjdxwhd
-  baseURL: http://apis.how/lloyjdxwhd
+  humanURL: http://www.reddit.com
+  baseURL: http://www.reddit.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/reddit-subreddits-api-openapi-spec.yaml
@@ -180,10 +181,10 @@ apis:
     social networking service and news website where registered community members
     can submit content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: http://apis.how/lloyjdxwhd
-  baseURL: http://apis.how/lloyjdxwhd
+  humanURL: http://www.reddit.com
+  baseURL: http://www.reddit.com
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/reddit/reddit-users-api-openapi-spec.yaml
