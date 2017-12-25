@@ -3,7 +3,7 @@ description: Pinboard.In is a social bookmarking site that offers an easy import
   export in del.icio.us format,  Nightly database backups to S3,  Cached copies of
   all  bookmarks,  a u201cto readu201d status for later viewing, private bookmarks
   and private tags, and simplified bulk editing.
-image: https://avatars0.githubusercontent.com/u/2050436?v=4
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pinboard-icon.png
 tags:
 - Stack Network
 - Stack
@@ -18,7 +18,7 @@ specificationVersion: "0.14"
 apis:
 - name: Pinboard Posts API
   description: Pinboard
-  image: https://avatars0.githubusercontent.com/u/2050436?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pinboard-icon.png
   humanURL: http://www.pinboard.in
   baseURL: http://www.pinboard.in
   tags:
@@ -28,7 +28,7 @@ apis:
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/pinboard/pinboard-posts-api-openapi-spec.yaml
 - name: Pinboard Tag API
   description: Pinboard
-  image: https://avatars0.githubusercontent.com/u/2050436?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pinboard-icon.png
   humanURL: https://pinboard.in/api/
   baseURL: http://www.pinboard.in
   tags:
@@ -38,7 +38,7 @@ apis:
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/pinboard/pinboard-tag-api-openapi-spec.yaml
 - name: Pinboard User API
   description: Pinboard
-  image: https://avatars0.githubusercontent.com/u/2050436?v=4
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pinboard-icon.png
   humanURL: http://www.pinboard.in
   baseURL: http://www.pinboard.in
   tags:
