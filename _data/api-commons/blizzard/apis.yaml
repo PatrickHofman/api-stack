@@ -1,7 +1,7 @@
 name: Blizzard
 description: This is the documentation for the RESTful APIs exposed through the World
   of Warcraft community site as a service to the World of Warcraft community.
-image: http://upload.wikimedia.org/wikipedia/en/3/34/BattleNet.png
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Blizzard_Entertainment_Logo.svg.png
 tags:
 - Stack
 - Gaming
