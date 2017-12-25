@@ -4,26 +4,27 @@ description: Vimeo is a cleanly-designed video sharing website that allows peopl
   launched support for high definition video in October 2007, further establishing
   itself as a leading video hosting platform. The website is owned by the media conglomerate
   IAC/InterActiveCorp and operated by Connected Ventures.
-image: https://f.vimeocdn.com/logo.svg
+image: http://pbs.twimg.com/profile_images/615942451572944896/wwXJk6kk_normal.png
 tags:
 - Videos
 - Videos
 - Stack Network
+- Stack
 - Road Map
 - OEmbed
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/vimeo/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Vimeo API
   description: Vimeo is a cleanly-designed video sharing website that allows people
     to publish their videos for public consumption or just for friends and family
-  image: https://f.vimeocdn.com/logo.svg
+  image: http://pbs.twimg.com/profile_images/615942451572944896/wwXJk6kk_normal.png
   humanURL: http://vimeo.com/api
   baseURL: http://vimeo.com/api
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/vimeo/vimeo-api-openapi-spec.yaml
