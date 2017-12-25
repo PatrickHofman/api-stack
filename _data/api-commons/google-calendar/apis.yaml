@@ -7,10 +7,11 @@ description: The Calendar API lets you display, create and modify calendar event
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-calendar-icon-66527.png
 tags:
 - Stack Network
+- Stack
 - Google APIs
 - Calendar
-created: "2017-05-06"
-modified: "2017-05-06"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/google-calendar/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -22,7 +23,7 @@ apis:
   humanURL: https://developers.google.com/google-apps/calendar/
   baseURL: https://developers.google.com/google-apps/calendar/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/google-calendar/google-calendar-api-openapi-spec.yaml
