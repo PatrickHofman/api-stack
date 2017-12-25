@@ -26,10 +26,8 @@ include:
   url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/bitly/apis.yaml
 - name: Blizzard
   url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/blizzard/apis.yaml
-- name: Box Platform
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/box-platform/apis.yaml
-- name: developer.visa.com
-  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/developervisacom/apis.yaml
+- name: Box
+  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/box/apis.yaml
 - name: Discogs
   url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/discogs/apis.yaml
 - name: Disqus
@@ -150,6 +148,8 @@ include:
   url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/us-census-bureau/apis.yaml
 - name: Vimeo
   url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/vimeo/apis.yaml
+- name: Visa
+  url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/visa/apis.yaml
 - name: Walgreens
   url: https://raw.githubusercontent.com/api-stack/api-stack//_data/api-commons/walgreens/apis.yaml
 - name: Wikipedia
