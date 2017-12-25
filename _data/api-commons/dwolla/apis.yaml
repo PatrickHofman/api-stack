@@ -2,28 +2,29 @@ name: Dwolla
 description: Dwolla provides a free web based software platform which allows users
   to send, receive, and request funds from any other user. Dwollarsquo;s maximum transaction
   cost is 25 cents per transaction.
-image: ""
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dwolla-logo.png
 tags:
 - Target
 - Stack Network
+- Stack
 - Payments
 - Payments
 - Payment API
 - Finance
 - API LIfeycle
-created: "2017-05-06"
-modified: "2017-05-06"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/dwolla/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Dwolla
   description: Dwolla provides a free web based software platform which allows users
     to send, receive, and request funds from any other user
-  image: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dwolla-logo.png
   humanURL: https://www.dwolla.com/developers/
   baseURL: https://www.dwolla.com/developers/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/dwolla/dwolla-openapi-spec.yaml
