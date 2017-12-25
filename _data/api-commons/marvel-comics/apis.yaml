@@ -1,0 +1,45 @@
+name: Marvel Comics
+description: The Marvel Comics API allows developers everywhere to access information
+  about Marvels vast library of comicsmdash;from whats coming up, to 70 years ago.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/marvel-comics-logo.png
+tags:
+- Stack
+- Getting Started
+- Comic Books
+- Comic Book
+created: "2017-12-24"
+modified: "2017-12-24"
+url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/marvel-comics/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: Marvel Comics API
+  description: The Marvel Comics API allows developers everywhere to access information
+    about Marvels vast library of comicsmdash;from whats coming up, to 70 years ago
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/marvel-comics-logo.png
+  humanURL: http://developer.marvel.com
+  baseURL: http://developer.marvel.com
+  tags:
+  - Stack
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/marvel-comics/marvel-comics-api-openapi-spec.yaml
+x-common:
+- type: x-developer-portal
+  url: http://developer.marvel.com/
+- type: x-documentation
+  url: http://developer.marvel.com/docs
+- type: x-getting-started
+  url: http://developer.marvel.com/documentation/getting_started
+- type: x-selfservice-registration
+  url: https://developer.marvel.com/pleasesignin
+- type: x-terms-of-service-page
+  url: https://developer.marvel.com/terms
+- type: x-website
+  url: https://marvel.com
+- type: x-portal
+  url: https://marvel.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
