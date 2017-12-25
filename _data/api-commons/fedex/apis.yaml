@@ -6,14 +6,15 @@ description: FedEx provides customers and businesses worldwide with a broad port
   admired and trusted employers, FedEx inspires its more than 290,000 employees to
   remain absolutely, positively focused on safety, the highest ethical and professional
   standards and the needs of their customers and communities.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/fedex-logo.jpeg
+image: http://pbs.twimg.com/profile_images/684133804865372161/gdEm4eXR_normal.jpg
 tags:
 - Stack Network
+- Stack
 - Shipping
 - Shipping
 - Freight
-created: "2017-05-06"
-modified: "2017-05-06"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/fedex/apis.yaml
 specificationVersion: "0.14"
 apis: []
