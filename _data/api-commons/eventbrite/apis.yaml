@@ -8,119 +8,120 @@ description: Eventbrite believes that anyone can be an event organizer. That's w
   organizers to become more efficient and effective when bringing people together.
   And people everywhere are searching Eventbrite to discover great events that matter
   to them.n
-image: ""
+image: https://avatars2.githubusercontent.com/u/369874?v=4
 tags:
 - Tickets
 - Ticketing
 - Stack Network
+- Stack
 - Registration
 - Partners
 - My API Stack
 - Events
 - Events
 - API LIfeycle
-created: "2017-05-06"
-modified: "2017-05-06"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/eventbrite/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Eventbrite Categories API
   description: Eventbrite believes that anyone can be an event organizer
-  image: ""
+  image: https://avatars2.githubusercontent.com/u/369874?v=4
   humanURL: http://developer.eventbrite.com/
   baseURL: http://developer.eventbrite.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/eventbrite/eventbrite-categories-api-openapi-spec.yaml
 - name: Eventbrite Events API
   description: Eventbrite believes that anyone can be an event organizer
-  image: ""
+  image: https://avatars2.githubusercontent.com/u/369874?v=4
   humanURL: http://developer.eventbrite.com/
   baseURL: http://developer.eventbrite.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/eventbrite/eventbrite-events-api-openapi-spec.yaml
 - name: Eventbrite Formats API
   description: Eventbrite believes that anyone can be an event organizer
-  image: ""
+  image: https://avatars2.githubusercontent.com/u/369874?v=4
   humanURL: http://developer.eventbrite.com/
   baseURL: http://developer.eventbrite.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/eventbrite/eventbrite-formats-api-openapi-spec.yaml
 - name: Eventbrite Media API
   description: Eventbrite believes that anyone can be an event organizer
-  image: ""
+  image: https://avatars2.githubusercontent.com/u/369874?v=4
   humanURL: http://developer.eventbrite.com/
   baseURL: http://developer.eventbrite.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/eventbrite/eventbrite-media-api-openapi-spec.yaml
 - name: Eventbrite Orders API
   description: Eventbrite believes that anyone can be an event organizer
-  image: ""
+  image: https://avatars2.githubusercontent.com/u/369874?v=4
   humanURL: http://developer.eventbrite.com/
   baseURL: http://developer.eventbrite.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/eventbrite/eventbrite-orders-api-openapi-spec.yaml
 - name: Eventbrite Organizers API
   description: Eventbrite believes that anyone can be an event organizer
-  image: ""
+  image: https://avatars2.githubusercontent.com/u/369874?v=4
   humanURL: http://developer.eventbrite.com/
   baseURL: http://developer.eventbrite.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/eventbrite/eventbrite-organizers-api-openapi-spec.yaml
 - name: Eventbrite System API
   description: Eventbrite believes that anyone can be an event organizer
-  image: ""
+  image: https://avatars2.githubusercontent.com/u/369874?v=4
   humanURL: http://developer.eventbrite.com/
   baseURL: http://developer.eventbrite.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/eventbrite/eventbrite-system-api-openapi-spec.yaml
 - name: Eventbrite Users API
   description: Eventbrite believes that anyone can be an event organizer
-  image: ""
+  image: https://avatars2.githubusercontent.com/u/369874?v=4
   humanURL: http://developer.eventbrite.com/
   baseURL: http://developer.eventbrite.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/eventbrite/eventbrite-users-api-openapi-spec.yaml
 - name: Eventbrite Venue API
   description: Eventbrite believes that anyone can be an event organizer
-  image: ""
+  image: https://avatars2.githubusercontent.com/u/369874?v=4
   humanURL: http://developer.eventbrite.com/
   baseURL: http://developer.eventbrite.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/eventbrite/eventbrite-venue-api-openapi-spec.yaml
 - name: Eventbrite Webhooks API
   description: Eventbrite believes that anyone can be an event organizer
-  image: ""
+  image: https://avatars2.githubusercontent.com/u/369874?v=4
   humanURL: http://developer.eventbrite.com/
   baseURL: http://developer.eventbrite.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/eventbrite/eventbrite-webhooks-api-openapi-spec.yaml
