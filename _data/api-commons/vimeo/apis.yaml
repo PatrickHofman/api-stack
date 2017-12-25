@@ -4,7 +4,7 @@ description: Vimeo is a cleanly-designed video sharing website that allows peopl
   launched support for high definition video in October 2007, further establishing
   itself as a leading video hosting platform. The website is owned by the media conglomerate
   IAC/InterActiveCorp and operated by Connected Ventures.
-image: http://pbs.twimg.com/profile_images/615942451572944896/wwXJk6kk_normal.png
+image: https://f.vimeocdn.com/logo.svg
 tags:
 - Videos
 - Videos
@@ -20,7 +20,7 @@ apis:
 - name: Vimeo API
   description: Vimeo is a cleanly-designed video sharing website that allows people
     to publish their videos for public consumption or just for friends and family
-  image: http://pbs.twimg.com/profile_images/615942451572944896/wwXJk6kk_normal.png
+  image: https://f.vimeocdn.com/logo.svg
   humanURL: http://vimeo.com/api
   baseURL: http://vimeo.com/api
   tags:
