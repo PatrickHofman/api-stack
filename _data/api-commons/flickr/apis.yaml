@@ -8,14 +8,15 @@ description: Flickr (pronounced flicker) is an image hosting and video hosting w
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flickr-logo.jpg
 tags:
 - Stack Network
+- Stack
 - Photo API
 - Photo
 - My API Stack
 - Imports
 - Images
 - Getting Started
-created: "2017-05-06"
-modified: "2017-05-06"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -27,7 +28,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-activity-api-openapi-spec.yaml
@@ -39,7 +40,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-authentication-api-openapi-spec.yaml
@@ -51,7 +52,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-blogs-api-openapi-spec.yaml
@@ -63,7 +64,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-cameras-api-openapi-spec.yaml
@@ -75,7 +76,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-collections-apis-openapi-spec.yaml
@@ -87,7 +88,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-commons-api-openapi-spec.yaml
@@ -99,7 +100,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-contacts-api-openapi-spec.yaml
@@ -111,7 +112,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-favorites-api-openapi-spec.yaml
@@ -123,7 +124,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-galleries-api-openapi-spec.yaml
@@ -135,7 +136,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-groups-api-openapi-spec.yaml
@@ -147,7 +148,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-interestingness-api-openapi-spec.yaml
@@ -159,7 +160,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-machine-tags-api-openapi-spec.yaml
@@ -171,7 +172,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-panda-api-openapi-spec.yaml
@@ -183,7 +184,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-people-api-openapi-spec.yaml
@@ -195,7 +196,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-photos-api-openapi-spec.yaml
@@ -207,7 +208,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-photosets-api-openapi-spec.yaml
@@ -219,7 +220,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-places-api-openapi-spec.yaml
@@ -231,7 +232,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-preferences-api-openapi-spec.yaml
@@ -243,7 +244,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-push-api-openapi-spec.yaml
@@ -255,7 +256,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-reflection-api-openapi-spec.yaml
@@ -267,7 +268,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-stats-api-openapi-spec.yaml
@@ -279,7 +280,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-tags-api-openapi-spec.yaml
@@ -291,7 +292,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-test-api-openapi-spec.yaml
@@ -303,7 +304,7 @@ apis:
   humanURL: http://www.flickr.com/
   baseURL: http://www.flickr.com/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/flickr/flickr-urls-api-openapi-spec.yaml
