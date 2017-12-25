@@ -7,12 +7,13 @@ description: 'Google Sheets is an online spreadsheet app that lets users create 
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-sheets-icon.png
 tags:
 - Stack Network
+- Stack
 - Spreadsheets
 - Google APIs
 - Documents
 - Data
-created: "2017-05-06"
-modified: "2017-05-06"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/google-sheets/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -23,7 +24,7 @@ apis:
   humanURL: https://developers.google.com/sheets/
   baseURL: https://developers.google.com/sheets/
   tags:
-  - Stack Network
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/google-sheets/google-sheets-api-openapi-spec.yaml
