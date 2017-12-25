@@ -6,12 +6,13 @@ description: Meetup is an online social networking portal that facilitates offli
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
 tags:
 - Stack Network
+- Stack
 - My API Stack
 - Meetups
 - Events
 - Events
-created: "2017-05-03"
-modified: "2017-05-03"
+created: "2017-12-24"
+modified: "2017-12-24"
 url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -19,9 +20,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-abuse-api-openapi-spec.yaml
@@ -29,9 +31,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-batch-api-openapi-spec.yaml
@@ -39,9 +42,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-boards-api-openapi-spec.yaml
@@ -49,9 +53,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-categories-api-openapi-spec.yaml
@@ -59,9 +64,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-cities-api-openapi-spec.yaml
@@ -69,9 +75,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-comments-api-openapi-spec.yaml
@@ -79,9 +86,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-dashboard-api-openapi-spec.yaml
@@ -89,9 +97,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-events-api-openapi-spec.yaml
@@ -99,9 +108,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-feeds-api-openapi-spec.yaml
@@ -109,9 +119,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-groups-api-openapi-spec.yaml
@@ -119,9 +130,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-members-api-openapi-spec.yaml
@@ -129,9 +141,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-meta-api-openapi-spec.yaml
@@ -139,9 +152,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-notifications-api-openapi-spec.yaml
@@ -149,9 +163,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-oembed-api-openapi-spec.yaml
@@ -159,9 +174,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-photos-api-openapi-spec.yaml
@@ -169,9 +185,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-pro-api-openapi-spec.yaml
@@ -179,9 +196,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-profiles-api-openapi-spec.yaml
@@ -189,9 +207,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-rsvp-api-openapi-spec.yaml
@@ -199,9 +218,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-streams-api-openapi-spec.yaml
@@ -209,9 +229,10 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-topics-api-openapi-spec.yaml
@@ -219,15 +240,14 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: http://apis.how/cntpb3bmsn
-  baseURL: http://apis.how/cntpb3bmsn
-  tags: []
+  humanURL: http://www.meetup.com/
+  baseURL: http://www.meetup.com/
+  tags:
+  - Stack
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/api-stack/api-stack/gh-pages/_data/api-commons/meetup/meetup-venues-api-openapi-spec.yaml
 x-common:
-- type: x-base-url-for-api
-  url: http://api.meetup.com
 - type: x-developer-portal
   url: http://www.meetup.com/meetup_api/
 - type: x-github
