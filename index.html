@@ -8,13 +8,10 @@ title: The API Stack
 
 {% assign number_of_orgs = 0 %}
 {% assign number_of_apis = 0 %}
-
 <div class="taggedLinkCards__cards">
   {% for item in site.stack %}
     {% if item.name %}
-
          {% assign number_of_orgs = number_of_orgs + 1 %}
-
          <h3>{{ item.name }}</h3>
          <p><img src="{{ item.image }}" width="20%" align="left" /></p>
          <p>{{ item.description }}</p>
@@ -25,31 +22,19 @@ title: The API Stack
                {% if entry.swagger == "2.0" %}
                 {% if item.info.title == entry.name %}
                  {% for path in entry.paths %}
-
                    {% assign path_name = path[0] %}
                    {% assign api_path_slug = path_name | lstrip | rstrip | remove_first: "/" | replace: '{','' | replace: '}','' | replace: ' ','-' | replace: '/','-' | replace: '&','-' | replace: ':','' | replace: '.','-' | replace: '=','-' | replace: '?','-' | replace: '_','-' | replace: '---','-' | replace: '--','-' | downcase %}
                    {% for method in path[1] %}
-
                      {% assign method_details = method[1] %}
-                     {% assign verb = method[0] %}
-                     {% assign api_path_slug = api_path_slug | append: '-' | append: verb | replace: '_','-' | replace: '---','-' | replace: '--','-' | downcase %}
-                     {% assign api_path_summary = method_details.summary %}
-                     {% assign api_path_description = method_details.description %}
-                     {% assign api_path_parameters = method_details.parameters %}
-                     {% assign api_path_tags = method_details.tags %}
-                     <li><strong>{{ api_path_summary }} ({{ verb }})</strong> - {{ api_path_description }} ({% for tag in method_details.tags %}{{ tag }}{% if forloop.last != true %},{% endif %}{% endfor %})</li>
-
+                     <li><strong>{{ method_details.summary }} ({{ method[0] }})</strong> - {{ method_details.description }} ({% for tag in method_details.tags %}{{ tag }}{% if forloop.last != true %},{% endif %}{% endfor %})</li>
                      {% assign number_of_apis = number_of_apis + 1 %}
-
                    {% endfor %}
                  {% endfor %}
-
                {% endif %}
               {% endif %}
              {% endif %}
            {% endfor %}
          </ul>
-
     {% endif %}
   {% endfor %}
 </div>
