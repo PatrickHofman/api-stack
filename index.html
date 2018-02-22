@@ -10,17 +10,9 @@ title: The API Stack
   {% for item in site.stack %}
     {% if item.name %}
 
-         {% assign api_name = entry.name %}
-         {% assign api_slug = api_name | replace: ' ','-' | replace: '/','' | replace: '&','-' | replace: '=','-' | replace: '{','-' | replace: '}','-' | replace: '?','-' | replace: '_','-' | replace: '--','-' | downcase %}
-         {% assign api_description = entry.description %}
-         {% assign api_image = entry.image %}
-         {% assign api_json_url = entry.url %}
-         {% assign api_json_kin_rank = entry.x-kinRank %}
-         {% assign api_json_alexa_rank = entry.x-alexaRank %}
-
-         <h3>{{ api_name }}</h3>
-         <p><img src="{{ api_image }}" width="20%" align="left" /></p>
-         <p>{{ api_description }}</p>
+         <h3>{{ item.name }}</h3>
+         <p><img src="{{ item.image }}" width="20%" align="left" /></p>
+         <p>{{ item.description }}</p>
 
          <p><strong>APIs</strong></p>
          <ul>
@@ -39,7 +31,7 @@ title: The API Stack
                      {% assign api_path_description = method_details.description %}
                      {% assign api_path_parameters = method_details.parameters %}
                      {% assign api_path_tags = method_details.tags %}
-                     <li>{{ api_path_summary }} {{ path_name }} - {{ api_path_description }}</li>
+                     <li><strong>{{ api_path_summary }}</strong> - {{ api_path_description }} ({% for tag in method_details.tags %}{{ tag }}{% if forloop.last != true %},{% endif %}{% endfor %})</li>
                    {% endfor %}
                  {% endfor %}
                {% endif %}
