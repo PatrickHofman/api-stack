@@ -13,7 +13,7 @@ title: The API Stack
     {% if item.name %}
          {% assign number_of_orgs = number_of_orgs + 1 %}
          <h3>{{ item.name }}</h3>
-         <p><img src="{{ item.image }}" width="150" align="left" /></p>
+         <p><img src="{{ item.image }}" width="75" align="left" style="padding: 5px;" /></p>
          <p>{{ item.description }}</p>
     {% endif %}
   {% endfor %}
