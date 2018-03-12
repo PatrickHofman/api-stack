@@ -2,7 +2,7 @@
 layout: page
 title: The API Stack
 ---
-<br />
+<H1>API Stack</h1>
 <p>These are the APIs I consider to be the most relevant in my storytelling around APIs, and reflect the APIs that are most used by developers, but also have APIs that will be relevant across a wide audience.</p>
 <p>I'll be adding other "stacks" of APIs in different verticals, as I update them. Making them available in the left-hand navigation, allowing for easier browsing of the best of the APIs I am studying as part of my research.</p>
 
@@ -15,30 +15,8 @@ title: The API Stack
          <h3>{{ item.name }}</h3>
          <p><img src="{{ item.image }}" width="20%" align="left" /></p>
          <p>{{ item.description }}</p>
-         <p><strong>APIs</strong></p>
-         <ul>
-           {% for entry in site.stack %}
-             {% if entry.swagger %}
-               {% if entry.swagger == "2.0" %}
-                {% if item.info.title == entry.name %}
-                 {% for path in entry.paths %}
-                   {% assign path_name = path[0] %}
-                   {% assign api_path_slug = path_name | lstrip | rstrip | remove_first: "/" | replace: '{','' | replace: '}','' | replace: ' ','-' | replace: '/','-' | replace: '&','-' | replace: ':','' | replace: '.','-' | replace: '=','-' | replace: '?','-' | replace: '_','-' | replace: '---','-' | replace: '--','-' | downcase %}
-                   {% for method in path[1] %}
-                     {% assign method_details = method[1] %}
-                     <li><strong>{{ method_details.summary }} ({{ method[0] }})</strong> - {{ method_details.description }} ({% for tag in method_details.tags %}{{ tag }}{% if forloop.last != true %},{% endif %}{% endfor %})</li>
-                     {% assign number_of_apis = number_of_apis + 1 %}
-                   {% endfor %}
-                 {% endfor %}
-               {% endif %}
-              {% endif %}
-             {% endif %}
-           {% endfor %}
-         </ul>
     {% endif %}
   {% endfor %}
 </div>
-<p><strong>Number of Organizations:</strong> {{ number_of_orgs }}</p>
-<p><strong>Number of APIs:</strong> {{ number_of_apis }}</p>
 
 <p>This project runs 100% on Github, and you <a href="github.com/api-stack/api-stack">can access via its Github repository</a>, with a machine readable APIs.json index available for all fo the organizations, and APIs included in this stack.</p>
