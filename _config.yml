@@ -1,8 +1,7 @@
 title: The API Stack
 url: http://theapistack.com/
-raw_url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/
 
-tag: Names
+tag: API Stack
 
 logo: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-stack-logo.jpg
 logo_width:   80
@@ -20,8 +19,8 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 paginate: 25
 paginate_path: "/blog/page:num"
 
-github_user: api-evangelist-data
-github_repo: names
+github_user: api-stack
+github_repo: api-stack
 github_branch: master
 
 # Footer
