@@ -5,8 +5,9 @@ title: The API Stack
 <p>These are the APIs I am tracking on and profiling. I'm working to profile them using APIs.json, OpenAPI, and with Postman Collections. Working to make the API sector more discoverable, and executiable using common machine readable API discovery formats.</p>
 <p>I'll be adding other "stacks" of APIs in different verticals, as I update them. Making them available in the left-hand navigation, allowing for easier browsing of the best of the APIs I am studying as part of my research.</p>
 {% assign number_of_orgs = 0 %}
+{% assign apis = site.data.apis %}
 <table width="100%">
-  {% for item in site.data.apis.include %}
+  {% for item in apis.include %}
     {% assign number_of_orgs = number_of_orgs + 1 %}
     <tr>
       <td width="70%">{{ item.name }}</td>
