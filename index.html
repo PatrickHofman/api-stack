@@ -7,7 +7,7 @@ title: The API Stack
 <p>I'll be adding other "stacks" of APIs in different verticals, as I update them. Making them available in the left-hand navigation, allowing for easier browsing of the best of the APIs I am studying as part of my research.</p>
 {% assign number_of_orgs = 0 %}
 <table width="100%">
-  {% for item in site.data.apis %}
+  {% for item in site.data.apis.include %}
     {% assign number_of_orgs = number_of_orgs + 1 %}
     <tr>
       <td width="70%">{{ item.name }}</td>
