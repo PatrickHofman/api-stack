@@ -1,163 +1,586 @@
-name: Stack
-description: The API Stack is an interactive, published list of companies that I'm
-  watching in the API space. I regularly go through my list of companies in my CRM
-  and high grade them, and promote or demote them on my monitoring list. The API Stack
-  is meant to be a reflection of this research, published in a way that others can
-  browse, and fork.
+---
+name: API Stack Network
+description: This is an index of all the APIs I am profiling as the API Evangelist
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-stacks.png
-created: "2017-12-24"
-modified: "2017-12-24"
-url: http://theapistack.com/apis.yaml
-specificationVersion: "0.14"
-apis: []
 tags:
-- Stack
+- API Directory
+- API Discovery
+created: '2018-03-24'
+modified: http://theapistack.com
+specificationVersion: '0.14'
+apis: []
 include:
+- name: 1Forge
+  url: https://raw.githubusercontent.com/api-stack-providers/1forge/master/_apisjson/apis.yaml
+- name: 3scale
+  url: https://raw.githubusercontent.com/api-stack-providers/3scale/master/_apisjson/apis.yaml
+- name: Accelerated Mobile Pages (AMP) URL
+  url: https://raw.githubusercontent.com/api-stack-providers/accelerated-mobile-pages-amp-url/master/_apisjson/apis.yaml
+- name: Akamai
+  url: https://raw.githubusercontent.com/api-stack-providers/akamai/master/_apisjson/apis.yaml
+- name: Allied Irish Bank
+  url: https://raw.githubusercontent.com/api-stack-providers/allied-irish-bank/master/_apisjson/apis.yaml
+- name: Alpha Vantage
+  url: https://raw.githubusercontent.com/api-stack-providers/alpha-vantage/master/_apisjson/apis.yaml
+- name: Amadeus
+  url: https://raw.githubusercontent.com/api-stack-providers/amadeus/master/_apisjson/apis.yaml
+- name: AngelList
+  url: https://raw.githubusercontent.com/api-stack-providers/angellist/master/_apisjson/apis.yaml
+- name: API Science
+  url: https://raw.githubusercontent.com/api-stack-providers/api-science/master/_apisjson/apis.yaml
+- name: APImetrics
+  url: https://raw.githubusercontent.com/api-stack-providers/apimetrics/master/_apisjson/apis.yaml
+- name: Application Insights DUPE
+  url: https://raw.githubusercontent.com/api-stack-providers/application-insights-dupe/master/_apisjson/apis.yaml
+- name: ARIN
+  url: https://raw.githubusercontent.com/api-stack-providers/arin/master/_apisjson/apis.yaml
+- name: AWS API Gateway
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-api-gateway/master/_apisjson/apis.yaml
+- name: AWS AppStream 2.0
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-appstream-20/master/_apisjson/apis.yaml
+- name: AWS Auto Scaling
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-auto-scaling/master/_apisjson/apis.yaml
+- name: AWS Batch
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-batch/master/_apisjson/apis.yaml
+- name: AWS Certificate Manager
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-certificate-manager/master/_apisjson/apis.yaml
+- name: AWS CloudFormation
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-cloudformation/master/_apisjson/apis.yaml
+- name: AWS CloudFront
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-cloudfront/master/_apisjson/apis.yaml
+- name: AWS CloudHSM
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-cloudhsm/master/_apisjson/apis.yaml
+- name: AWS CloudSearch
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-cloudsearch/master/_apisjson/apis.yaml
+- name: AWS CloudTrail
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-cloudtrail/master/_apisjson/apis.yaml
+- name: AWS CloudWatch
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-cloudwatch/master/_apisjson/apis.yaml
+- name: AWS Code Pipeline
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-code-pipeline/master/_apisjson/apis.yaml
+- name: AWS CodeBuild
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-codebuild/master/_apisjson/apis.yaml
+- name: AWS CodeCommit
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-codecommit/master/_apisjson/apis.yaml
+- name: AWS CodeDeploy
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-codedeploy/master/_apisjson/apis.yaml
+- name: AWS Cognito
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-cognito/master/_apisjson/apis.yaml
+- name: AWS Config
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-config/master/_apisjson/apis.yaml
+- name: AWS Data Pipeline
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-data-pipeline/master/_apisjson/apis.yaml
+- name: AWS Database Migration Service
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-database-migration-service/master/_apisjson/apis.yaml
+- name: AWS Device Farm
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-device-farm/master/_apisjson/apis.yaml
+- name: AWS Direct Connect
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-direct-connect/master/_apisjson/apis.yaml
+- name: AWS Directory Service
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-directory-service/master/_apisjson/apis.yaml
+- name: AWS DynamoDB
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-dynamodb/master/_apisjson/apis.yaml
 - name: AWS EC2
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/aws-ec2/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-ec2/master/_apisjson/apis.yaml
+- name: AWS EC2 Container Registry Service
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-ec2-container-registry-service/master/_apisjson/apis.yaml
+- name: AWS EC2 Container Service
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-ec2-container-service/master/_apisjson/apis.yaml
+- name: AWS EC2 Systems Manager
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-ec2-systems-manager/master/_apisjson/apis.yaml
+- name: AWS Elastic Beanstalk
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-elastic-beanstalk/master/_apisjson/apis.yaml
+- name: AWS Elastic Load Balancing
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-elastic-load-balancing/master/_apisjson/apis.yaml
+- name: AWS Elastic MapReduce
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-elastic-mapreduce/master/_apisjson/apis.yaml
+- name: AWS ElastiCache
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-elasticache/master/_apisjson/apis.yaml
+- name: AWS Elasticsearch Service
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-elasticsearch-service/master/_apisjson/apis.yaml
+- name: AWS Glacier
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-glacier/master/_apisjson/apis.yaml
+- name: AWS Identity and Access Management
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-identity-and-access-management/master/_apisjson/apis.yaml
+- name: AWS Inspector
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-inspector/master/_apisjson/apis.yaml
+- name: AWS Internet of Things
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-internet-of-things/master/_apisjson/apis.yaml
+- name: AWS Key Management Service
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-key-management-service/master/_apisjson/apis.yaml
+- name: AWS Kinesis Analytics
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-kinesis-analytics/master/_apisjson/apis.yaml
+- name: AWS Kinesis Firehose
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-kinesis-firehose/master/_apisjson/apis.yaml
+- name: AWS Lambda
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-lambda/master/_apisjson/apis.yaml
+- name: AWS Lightsale
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-lightsale/master/_apisjson/apis.yaml
+- name: AWS Machine Learning
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-machine-learning/master/_apisjson/apis.yaml
+- name: AWS Marketplace Metering Service
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-marketplace-metering-service/master/_apisjson/apis.yaml
+- name: AWS OpsWorks
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-opsworks/master/_apisjson/apis.yaml
+- name: AWS Pinpoint
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-pinpoint/master/_apisjson/apis.yaml
+- name: AWS Polly
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-polly/master/_apisjson/apis.yaml
 - name: AWS RDS
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/aws-rds/apis.yaml
-- name: AWS S3
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/aws-s3/apis.yaml
-- name: Best Buy APIs
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/best-buy-apis/apis.yaml
-- name: Bit.ly
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/bitly/apis.yaml
-- name: Blizzard
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/blizzard/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-rds/master/_apisjson/apis.yaml
+- name: AWS Redshift
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-redshift/master/_apisjson/apis.yaml
+- name: AWS Rekognition
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-rekognition/master/_apisjson/apis.yaml
+- name: AWS Route 53
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-route-53/master/_apisjson/apis.yaml
+- name: AWS Security Token Service
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-security-token-service/master/_apisjson/apis.yaml
+- name: AWS Server Migration Service
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-server-migration-service/master/_apisjson/apis.yaml
+- name: AWS Service Catalog
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-service-catalog/master/_apisjson/apis.yaml
+- name: AWS Shield
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-shield/master/_apisjson/apis.yaml
+- name: AWS Simple Email Service
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-simple-email-service/master/_apisjson/apis.yaml
+- name: AWS Simple Notification Service
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-simple-notification-service/master/_apisjson/apis.yaml
+- name: AWS Simple Queue Service
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-simple-queue-service/master/_apisjson/apis.yaml
+- name: AWS Snowball
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-snowball/master/_apisjson/apis.yaml
+- name: AWS Step Functions
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-step-functions/master/_apisjson/apis.yaml
+- name: AWS Storage Gateway Service
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-storage-gateway-service/master/_apisjson/apis.yaml
+- name: AWS WAF
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-waf/master/_apisjson/apis.yaml
+- name: AWS WorkDocs
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-workdocs/master/_apisjson/apis.yaml
+- name: AWS WorkSpaces
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-workspaces/master/_apisjson/apis.yaml
+- name: AWS X-Ray
+  url: https://raw.githubusercontent.com/api-stack-providers/aws-xray/master/_apisjson/apis.yaml
+- name: Azure Advisor
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-advisor/master/_apisjson/apis.yaml
+- name: Azure Analysis Services
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-analysis-services/master/_apisjson/apis.yaml
+- name: Azure API Management
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-api-management/master/_apisjson/apis.yaml
+- name: Azure Application Insights
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-application-insights/master/_apisjson/apis.yaml
+- name: Azure Automation
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-automation/master/_apisjson/apis.yaml
+- name: Azure Batch
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-batch/master/_apisjson/apis.yaml
+- name: Azure Billing API
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-billing-api/master/_apisjson/apis.yaml
+- name: Azure CDN
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-cdn/master/_apisjson/apis.yaml
+- name: Azure Cognitive Services
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-cognitive-services/master/_apisjson/apis.yaml
+- name: Azure Container Registry
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-container-registry/master/_apisjson/apis.yaml
+- name: Azure Container Service
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-container-service/master/_apisjson/apis.yaml
+- name: Azure Data Lake Analytics
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-data-lake-analytics/master/_apisjson/apis.yaml
+- name: Azure Data Lake Store
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-data-lake-store/master/_apisjson/apis.yaml
+- name: Azure DevTest Labs
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-devtest-labs/master/_apisjson/apis.yaml
+- name: Azure DNS
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-dns/master/_apisjson/apis.yaml
+- name: Azure DocumentDB
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-documentdb/master/_apisjson/apis.yaml
+- name: Azure Event Hubs
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-event-hubs/master/_apisjson/apis.yaml
+- name: Azure HDInsight
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-hdinsight/master/_apisjson/apis.yaml
+- name: Azure IoT Hub
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-iot-hub/master/_apisjson/apis.yaml
+- name: Azure Key Vault
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-key-vault/master/_apisjson/apis.yaml
+- name: Azure Logic Apps
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-logic-apps/master/_apisjson/apis.yaml
+- name: Azure Machine Learning
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-machine-learning/master/_apisjson/apis.yaml
+- name: Azure Media Services
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-media-services/master/_apisjson/apis.yaml
+- name: Azure Monitor
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-monitor/master/_apisjson/apis.yaml
+- name: Azure Notification Hubs
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-notification-hubs/master/_apisjson/apis.yaml
+- name: Azure Recovery Services
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-recovery-services/master/_apisjson/apis.yaml
+- name: Azure Redis Cache
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-redis-cache/master/_apisjson/apis.yaml
+- name: Azure Relay
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-relay/master/_apisjson/apis.yaml
+- name: Azure Resource Health
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-resource-health/master/_apisjson/apis.yaml
+- name: Azure Resource Manager
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-resource-manager/master/_apisjson/apis.yaml
+- name: Azure Scheduler
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-scheduler/master/_apisjson/apis.yaml
+- name: Azure Search
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-search/master/_apisjson/apis.yaml
+- name: Azure Service Bus
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-service-bus/master/_apisjson/apis.yaml
+- name: Azure Service Fabric
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-service-fabric/master/_apisjson/apis.yaml
+- name: Azure SQL Database
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-sql-database/master/_apisjson/apis.yaml
+- name: Azure Storage
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-storage/master/_apisjson/apis.yaml
+- name: Azure Traffic Manager
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-traffic-manager/master/_apisjson/apis.yaml
+- name: Azure Virtual Network
+  url: https://raw.githubusercontent.com/api-stack-providers/azure-virtual-network/master/_apisjson/apis.yaml
+- name: Bank of Ireland
+  url: https://raw.githubusercontent.com/api-stack-providers/bank-of-ireland/master/_apisjson/apis.yaml
+- name: Bank of Scotland
+  url: https://raw.githubusercontent.com/api-stack-providers/bank-of-scotland/master/_apisjson/apis.yaml
+- name: Bitbucket
+  url: https://raw.githubusercontent.com/api-stack-providers/bitbucket/master/_apisjson/apis.yaml
+- name: Blockchain Info
+  url: https://raw.githubusercontent.com/api-stack-providers/blockchain-info/master/_apisjson/apis.yaml
+- name: Blogger
+  url: https://raw.githubusercontent.com/api-stack-providers/blogger/master/_apisjson/apis.yaml
+- name: BMC Software
+  url: https://raw.githubusercontent.com/api-stack-providers/bmc-software/master/_apisjson/apis.yaml
 - name: Box
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/box/apis.yaml
-- name: Discogs
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/discogs/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/box/master/_apisjson/apis.yaml
+- name: Capital One DevExchange
+  url: https://raw.githubusercontent.com/api-stack-providers/capital-one-devexchange/master/_apisjson/apis.yaml
+- name: CircleCI
+  url: https://raw.githubusercontent.com/api-stack-providers/circleci/master/_apisjson/apis.yaml
+- name: CloudFlare
+  url: https://raw.githubusercontent.com/api-stack-providers/cloudflare/master/_apisjson/apis.yaml
+- name: Coutts
+  url: https://raw.githubusercontent.com/api-stack-providers/coutts/master/_apisjson/apis.yaml
+- name: Data.Gov
+  url: https://raw.githubusercontent.com/api-stack-providers/datagov/master/_apisjson/apis.yaml
+- name: DataAtWork
+  url: https://raw.githubusercontent.com/api-stack-providers/dataatwork/master/_apisjson/apis.yaml
+- name: DataDog
+  url: https://raw.githubusercontent.com/api-stack-providers/datadog/master/_apisjson/apis.yaml
 - name: Disqus
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/disqus/apis.yaml
-- name: Dropbox
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/dropbox/apis.yaml
-- name: Dwolla
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/dwolla/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/disqus/master/_apisjson/apis.yaml
+- name: DNS Check
+  url: https://raw.githubusercontent.com/api-stack-providers/dns-check/master/_apisjson/apis.yaml
+- name: Dyn
+  url: https://raw.githubusercontent.com/api-stack-providers/dyn/master/_apisjson/apis.yaml
 - name: eBay
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/ebay/apis.yaml
-- name: Etsy
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/etsy/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/ebay/master/_apisjson/apis.yaml
+- name: Elastic Load Balancing
+  url: https://raw.githubusercontent.com/api-stack-providers/elastic-load-balancing/master/_apisjson/apis.yaml
+- name: eMuseum API docs
+  url: https://raw.githubusercontent.com/api-stack-providers/emuseum-api-docs/master/_apisjson/apis.yaml
+- name: Esme
+  url: https://raw.githubusercontent.com/api-stack-providers/esme/master/_apisjson/apis.yaml
 - name: Eventbrite
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/eventbrite/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/eventbrite/master/_apisjson/apis.yaml
 - name: Expedia
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/expedia/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/expedia/master/_apisjson/apis.yaml
 - name: Facebook
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/facebook/apis.yaml
-- name: FedEx
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/fedex/apis.yaml
-- name: Fitbit
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/fitbit/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/facebook/master/_apisjson/apis.yaml
+- name: FedBizOpps (FBOpen)
+  url: https://raw.githubusercontent.com/api-stack-providers/fedbizopps-fbopen/master/_apisjson/apis.yaml
+- name: Firebase
+  url: https://raw.githubusercontent.com/api-stack-providers/firebase/master/_apisjson/apis.yaml
+- name: First Trust Bank
+  url: https://raw.githubusercontent.com/api-stack-providers/first-trust-bank/master/_apisjson/apis.yaml
 - name: Flickr
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/flickr/apis.yaml
-- name: Foursquare
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/foursquare/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/flickr/master/_apisjson/apis.yaml
+- name: Freesound.org
+  url: https://raw.githubusercontent.com/api-stack-providers/freesoundorg/master/_apisjson/apis.yaml
+- name: G Suite
+  url: https://raw.githubusercontent.com/api-stack-providers/g-suite/master/_apisjson/apis.yaml
+- name: Getty Images
+  url: https://raw.githubusercontent.com/api-stack-providers/getty-images/master/_apisjson/apis.yaml
+- name: Giphy
+  url: https://raw.githubusercontent.com/api-stack-providers/giphy/master/_apisjson/apis.yaml
 - name: GitHub
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/github/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/github/master/_apisjson/apis.yaml
 - name: Gmail
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/gmail/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/gmail/master/_apisjson/apis.yaml
+- name: Go.USA.Gov
+  url: https://raw.githubusercontent.com/api-stack-providers/gousagov/master/_apisjson/apis.yaml
 - name: Google Adsense
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/google-adsense/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/google-adsense/master/_apisjson/apis.yaml
 - name: Google Analytics
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/google-analytics/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/google-analytics/master/_apisjson/apis.yaml
+- name: Google API Discovery Service
+  url: https://raw.githubusercontent.com/api-stack-providers/google-api-discovery-service/master/_apisjson/apis.yaml
+- name: Google App Engine
+  url: https://raw.githubusercontent.com/api-stack-providers/google-app-engine/master/_apisjson/apis.yaml
+- name: Google Apps Admin SDK
+  url: https://raw.githubusercontent.com/api-stack-providers/google-apps-admin-sdk/master/_apisjson/apis.yaml
+- name: Google Apps Script Execution
+  url: https://raw.githubusercontent.com/api-stack-providers/google-apps-script-execution/master/_apisjson/apis.yaml
+- name: Google Beacons
+  url: https://raw.githubusercontent.com/api-stack-providers/google-beacons/master/_apisjson/apis.yaml
+- name: Google Biquery
+  url: https://raw.githubusercontent.com/api-stack-providers/google-biquery/master/_apisjson/apis.yaml
+- name: Google Books
+  url: https://raw.githubusercontent.com/api-stack-providers/google-books/master/_apisjson/apis.yaml
 - name: Google Calendar
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/google-calendar/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/google-calendar/master/_apisjson/apis.yaml
+- name: Google Civic Information
+  url: https://raw.githubusercontent.com/api-stack-providers/google-civic-information/master/_apisjson/apis.yaml
+- name: Google Classroom
+  url: https://raw.githubusercontent.com/api-stack-providers/google-classroom/master/_apisjson/apis.yaml
+- name: Google Cloud Billing
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-billing/master/_apisjson/apis.yaml
+- name: Google Cloud Container Builder
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-container-builder/master/_apisjson/apis.yaml
+- name: Google Cloud Dataproc
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-dataproc/master/_apisjson/apis.yaml
+- name: Google Cloud Datastore
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-datastore/master/_apisjson/apis.yaml
+- name: Google Cloud Deployment Manager
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-deployment-manager/master/_apisjson/apis.yaml
+- name: Google Cloud DNS
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-dns/master/_apisjson/apis.yaml
+- name: Google Cloud Functions
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-functions/master/_apisjson/apis.yaml
+- name: Google Cloud Identity Access Management
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-identity-access-management/master/_apisjson/apis.yaml
+- name: Google Cloud Key Management Service (KMS)
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-key-management-service-kms/master/_apisjson/apis.yaml
+- name: Google Cloud Machine Learning Engine
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-machine-learning-engine/master/_apisjson/apis.yaml
+- name: Google Cloud Natural Language
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-natural-language/master/_apisjson/apis.yaml
+- name: Google Cloud Prediction
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-prediction/master/_apisjson/apis.yaml
+- name: Google Cloud Pub/Sub
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-pubsub/master/_apisjson/apis.yaml
+- name: Google Cloud Resource Manager
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-resource-manager/master/_apisjson/apis.yaml
+- name: Google Cloud Source Repositories
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-source-repositories/master/_apisjson/apis.yaml
+- name: Google Cloud Spanner
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-spanner/master/_apisjson/apis.yaml
+- name: Google Cloud SQL
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-sql/master/_apisjson/apis.yaml
+- name: Google Cloud Storage
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-storage/master/_apisjson/apis.yaml
+- name: Google Cloud User Accounts
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-user-accounts/master/_apisjson/apis.yaml
+- name: Google Cloud Vision
+  url: https://raw.githubusercontent.com/api-stack-providers/google-cloud-vision/master/_apisjson/apis.yaml
+- name: Google Compute Engine
+  url: https://raw.githubusercontent.com/api-stack-providers/google-compute-engine/master/_apisjson/apis.yaml
+- name: Google Consumer Surveys
+  url: https://raw.githubusercontent.com/api-stack-providers/google-consumer-surveys/master/_apisjson/apis.yaml
+- name: Google Container Engine
+  url: https://raw.githubusercontent.com/api-stack-providers/google-container-engine/master/_apisjson/apis.yaml
+- name: Google Content API for Shopping
+  url: https://raw.githubusercontent.com/api-stack-providers/google-content-api-for-shopping/master/_apisjson/apis.yaml
+- name: Google Custom Search
+  url: https://raw.githubusercontent.com/api-stack-providers/google-custom-search/master/_apisjson/apis.yaml
+- name: Google Dataflow
+  url: https://raw.githubusercontent.com/api-stack-providers/google-dataflow/master/_apisjson/apis.yaml
+- name: Google Doubleclick
+  url: https://raw.githubusercontent.com/api-stack-providers/google-doubleclick/master/_apisjson/apis.yaml
 - name: Google Drive
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/google-drive/apis.yaml
-- name: Google Maps
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/google-maps/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/google-drive/master/_apisjson/apis.yaml
+- name: Google Fit
+  url: https://raw.githubusercontent.com/api-stack-providers/google-fit/master/_apisjson/apis.yaml
+- name: Google Fonts
+  url: https://raw.githubusercontent.com/api-stack-providers/google-fonts/master/_apisjson/apis.yaml
+- name: Google Fusion Tables
+  url: https://raw.githubusercontent.com/api-stack-providers/google-fusion-tables/master/_apisjson/apis.yaml
+- name: Google Genomics
+  url: https://raw.githubusercontent.com/api-stack-providers/google-genomics/master/_apisjson/apis.yaml
+- name: Google Glass
+  url: https://raw.githubusercontent.com/api-stack-providers/google-glass/master/_apisjson/apis.yaml
+- name: Google Knowledge Graph Search
+  url: https://raw.githubusercontent.com/api-stack-providers/google-knowledge-graph-search/master/_apisjson/apis.yaml
+- name: Google Manufacturer Center
+  url: https://raw.githubusercontent.com/api-stack-providers/google-manufacturer-center/master/_apisjson/apis.yaml
+- name: Google OAuth2
+  url: https://raw.githubusercontent.com/api-stack-providers/google-oauth2/master/_apisjson/apis.yaml
+- name: Google PageSpeed Insights
+  url: https://raw.githubusercontent.com/api-stack-providers/google-pagespeed-insights/master/_apisjson/apis.yaml
+- name: Google Partners
+  url: https://raw.githubusercontent.com/api-stack-providers/google-partners/master/_apisjson/apis.yaml
+- name: Google People
+  url: https://raw.githubusercontent.com/api-stack-providers/google-people/master/_apisjson/apis.yaml
+- name: Google Play
+  url: https://raw.githubusercontent.com/api-stack-providers/google-play/master/_apisjson/apis.yaml
+- name: Google Plus
+  url: https://raw.githubusercontent.com/api-stack-providers/google-plus/master/_apisjson/apis.yaml
+- name: Google Safe Browsing
+  url: https://raw.githubusercontent.com/api-stack-providers/google-safe-browsing/master/_apisjson/apis.yaml
+- name: Google Search Console
+  url: https://raw.githubusercontent.com/api-stack-providers/google-search-console/master/_apisjson/apis.yaml
+- name: Google Service Control
+  url: https://raw.githubusercontent.com/api-stack-providers/google-service-control/master/_apisjson/apis.yaml
+- name: Google Service Management
+  url: https://raw.githubusercontent.com/api-stack-providers/google-service-management/master/_apisjson/apis.yaml
 - name: Google Sheets
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/google-sheets/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/google-sheets/master/_apisjson/apis.yaml
+- name: Google Site Verification
+  url: https://raw.githubusercontent.com/api-stack-providers/google-site-verification/master/_apisjson/apis.yaml
+- name: Google Slides
+  url: https://raw.githubusercontent.com/api-stack-providers/google-slides/master/_apisjson/apis.yaml
+- name: Google Spectrum Database
+  url: https://raw.githubusercontent.com/api-stack-providers/google-spectrum-database/master/_apisjson/apis.yaml
+- name: Google Speech
+  url: https://raw.githubusercontent.com/api-stack-providers/google-speech/master/_apisjson/apis.yaml
+- name: Google Stackdriver Monitoring API
+  url: https://raw.githubusercontent.com/api-stack-providers/google-stackdriver-monitoring-api/master/_apisjson/apis.yaml
+- name: Google Tag Manager
+  url: https://raw.githubusercontent.com/api-stack-providers/google-tag-manager/master/_apisjson/apis.yaml
+- name: Google Task Queue
+  url: https://raw.githubusercontent.com/api-stack-providers/google-task-queue/master/_apisjson/apis.yaml
+- name: Google Tasks
+  url: https://raw.githubusercontent.com/api-stack-providers/google-tasks/master/_apisjson/apis.yaml
 - name: Google Translate
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/google-translate/apis.yaml
-- name: Guardian Data
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/guardian-data/apis.yaml
-- name: IBM Watson
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/ibm-watson/apis.yaml
-- name: Imgur
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/imgur/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/google-translate/master/_apisjson/apis.yaml
+- name: Google URL Shortener
+  url: https://raw.githubusercontent.com/api-stack-providers/google-url-shortener/master/_apisjson/apis.yaml
+- name: GSA Per Diem API
+  url: https://raw.githubusercontent.com/api-stack-providers/gsa-per-diem-api/master/_apisjson/apis.yaml
+- name: Halifax Bank
+  url: https://raw.githubusercontent.com/api-stack-providers/halifax-bank/master/_apisjson/apis.yaml
+- name: Heroku
+  url: https://raw.githubusercontent.com/api-stack-providers/heroku/master/_apisjson/apis.yaml
+- name: HSBC
+  url: https://raw.githubusercontent.com/api-stack-providers/hsbc/master/_apisjson/apis.yaml
+- name: IEX
+  url: https://raw.githubusercontent.com/api-stack-providers/iex/master/_apisjson/apis.yaml
 - name: Instagram
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/instagram/apis.yaml
-- name: Intuit
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/intuit/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/instagram/master/_apisjson/apis.yaml
+- name: Intrinio
+  url: https://raw.githubusercontent.com/api-stack-providers/intrinio/master/_apisjson/apis.yaml
+- name: Knoema
+  url: https://raw.githubusercontent.com/api-stack-providers/knoema/master/_apisjson/apis.yaml
 - name: LinkedIn
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/linkedin/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/linkedin/master/_apisjson/apis.yaml
 - name: Lyft
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/lyft/apis.yaml
-- name: MailChimp
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/mailchimp/apis.yaml
-- name: Mapbox
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/mapbox/apis.yaml
-- name: Marvel Comics
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/marvel-comics/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/lyft/master/_apisjson/apis.yaml
+- name: Lykke
+  url: https://raw.githubusercontent.com/api-stack-providers/lykke/master/_apisjson/apis.yaml
 - name: MasterCard
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/mastercard/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/mastercard/master/_apisjson/apis.yaml
+- name: Medium
+  url: https://raw.githubusercontent.com/api-stack-providers/medium/master/_apisjson/apis.yaml
 - name: Meetup
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/meetup/apis.yaml
-- name: Microsoft Office
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/microsoft-office/apis.yaml
-- name: National Aeronautics and Space Administration
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/national-aeronautics-and-space-administration/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/meetup/master/_apisjson/apis.yaml
+- name: Microsoft Graph
+  url: https://raw.githubusercontent.com/api-stack-providers/microsoft-graph/master/_apisjson/apis.yaml
+- name: Microsoft Office 365
+  url: https://raw.githubusercontent.com/api-stack-providers/microsoft-office-365/master/_apisjson/apis.yaml
+- name: Nationwide Building Society
+  url: https://raw.githubusercontent.com/api-stack-providers/nationwide-building-society/master/_apisjson/apis.yaml
+- name: NatWest
+  url: https://raw.githubusercontent.com/api-stack-providers/natwest/master/_apisjson/apis.yaml
+- name: New Relic
+  url: https://raw.githubusercontent.com/api-stack-providers/new-relic/master/_apisjson/apis.yaml
 - name: New York Times
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/new-york-times/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/new-york-times/master/_apisjson/apis.yaml
+- name: News API
+  url: https://raw.githubusercontent.com/api-stack-providers/news-api/master/_apisjson/apis.yaml
+- name: Nordea
+  url: https://raw.githubusercontent.com/api-stack-providers/nordea/master/_apisjson/apis.yaml
 - name: NPR
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/npr/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/npr/master/_apisjson/apis.yaml
+- name: OAuth.io
+  url: https://raw.githubusercontent.com/api-stack-providers/oauthio/master/_apisjson/apis.yaml
+- name: OpenDNS
+  url: https://raw.githubusercontent.com/api-stack-providers/opendns/master/_apisjson/apis.yaml
+- name: PagerDuty
+  url: https://raw.githubusercontent.com/api-stack-providers/pagerduty/master/_apisjson/apis.yaml
+- name: ParallelDots
+  url: https://raw.githubusercontent.com/api-stack-providers/paralleldots/master/_apisjson/apis.yaml
+- name: Particle
+  url: https://raw.githubusercontent.com/api-stack-providers/particle/master/_apisjson/apis.yaml
 - name: PayPal
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/paypal/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/paypal/master/_apisjson/apis.yaml
 - name: Pinboard
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/pinboard/apis.yaml
-- name: Pinterest
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/pinterest/apis.yaml
-- name: Postmates
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/postmates/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/pinboard/master/_apisjson/apis.yaml
+- name: Pingometer
+  url: https://raw.githubusercontent.com/api-stack-providers/pingometer/master/_apisjson/apis.yaml
+- name: Plivo
+  url: https://raw.githubusercontent.com/api-stack-providers/plivo/master/_apisjson/apis.yaml
+- name: Postmark
+  url: https://raw.githubusercontent.com/api-stack-providers/postmark/master/_apisjson/apis.yaml
+- name: Quandl
+  url: https://raw.githubusercontent.com/api-stack-providers/quandl/master/_apisjson/apis.yaml
+- name: Rackspace
+  url: https://raw.githubusercontent.com/api-stack-providers/rackspace/master/_apisjson/apis.yaml
 - name: Reddit
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/reddit/apis.yaml
-- name: Riot Games
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/riot-games/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/reddit/master/_apisjson/apis.yaml
+- name: Runscope
+  url: https://raw.githubusercontent.com/api-stack-providers/runscope/master/_apisjson/apis.yaml
 - name: Salesforce
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/salesforce/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/salesforce/master/_apisjson/apis.yaml
+- name: Santander Bank
+  url: https://raw.githubusercontent.com/api-stack-providers/santander-bank/master/_apisjson/apis.yaml
 - name: SendGrid
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/sendgrid/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/sendgrid/master/_apisjson/apis.yaml
 - name: Slack
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/slack/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/slack/master/_apisjson/apis.yaml
+- name: SmartBear Software
+  url: https://raw.githubusercontent.com/api-stack-providers/smartbear-software/master/_apisjson/apis.yaml
 - name: SoundCloud
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/soundcloud/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/soundcloud/master/_apisjson/apis.yaml
+- name: SpectroCoin
+  url: https://raw.githubusercontent.com/api-stack-providers/spectrocoin/master/_apisjson/apis.yaml
 - name: Spotify
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/spotify/apis.yaml
-- name: Stack Exchange
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/stack-exchange/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/spotify/master/_apisjson/apis.yaml
+- name: StatusPage.io
+  url: https://raw.githubusercontent.com/api-stack-providers/statuspageio/master/_apisjson/apis.yaml
+- name: StockTwits
+  url: https://raw.githubusercontent.com/api-stack-providers/stocktwits/master/_apisjson/apis.yaml
+- name: Stride
+  url: https://raw.githubusercontent.com/api-stack-providers/stride/master/_apisjson/apis.yaml
 - name: Stripe
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/stripe/apis.yaml
-- name: Ticketmaster
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/ticketmaster/apis.yaml
-- name: Tumblr
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/tumblr/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/stripe/master/_apisjson/apis.yaml
+- name: Sustainable Facilities Tool API
+  url: https://raw.githubusercontent.com/api-stack-providers/sustainable-facilities-tool-api/master/_apisjson/apis.yaml
+- name: System Award Management
+  url: https://raw.githubusercontent.com/api-stack-providers/system-award-management/master/_apisjson/apis.yaml
+- name: The Guardian
+  url: https://raw.githubusercontent.com/api-stack-providers/the-guardian/master/_apisjson/apis.yaml
 - name: Twilio
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/twilio/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/twilio/master/_apisjson/apis.yaml
 - name: Twitter
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/twitter/apis.yaml
-- name: U.S. Postal Service
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/us-postal-service/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/twitter/master/_apisjson/apis.yaml
+- name: Tyk
+  url: https://raw.githubusercontent.com/api-stack-providers/tyk/master/_apisjson/apis.yaml
+- name: U.S. Digital Registry
+  url: https://raw.githubusercontent.com/api-stack-providers/us-digital-registry/master/_apisjson/apis.yaml
 - name: Uber
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/uber/apis.yaml
-- name: UPS
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/ups/apis.yaml
-- name: US Census Bureau
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/us-census-bureau/apis.yaml
-- name: Vimeo
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/vimeo/apis.yaml
-- name: Visa
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/visa/apis.yaml
-- name: Walgreens
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/walgreens/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/uber/master/_apisjson/apis.yaml
+- name: Ulster Bank
+  url: https://raw.githubusercontent.com/api-stack-providers/ulster-bank/master/_apisjson/apis.yaml
+- name: USA.Gov Corporate Consumer Contact Information
+  url: https://raw.githubusercontent.com/api-stack-providers/usagov-corporate-consumer-contact-information/master/_apisjson/apis.yaml
+- name: USAJobs API
+  url: https://raw.githubusercontent.com/api-stack-providers/usajobs-api/master/_apisjson/apis.yaml
+- name: Weather Underground
+  url: https://raw.githubusercontent.com/api-stack-providers/weather-underground/master/_apisjson/apis.yaml
+- name: Weatherbit
+  url: https://raw.githubusercontent.com/api-stack-providers/weatherbit/master/_apisjson/apis.yaml
 - name: Wikipedia
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/wikipedia/apis.yaml
-- name: WordPress.com
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/wordpresscom/apis.yaml
-- name: Yelp
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/yelp/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/wikipedia/master/_apisjson/apis.yaml
+- name: Xignite
+  url: https://raw.githubusercontent.com/api-stack-providers/xignite/master/_apisjson/apis.yaml
+- name: Yammer
+  url: https://raw.githubusercontent.com/api-stack-providers/yammer/master/_apisjson/apis.yaml
 - name: YouTube
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/youtube/apis.yaml
-- name: Zillow
-  url: https://raw.githubusercontent.com/api-stack/api-stack/_data/api-commons/zillow/apis.yaml
+  url: https://raw.githubusercontent.com/api-stack-providers/youtube/master/_apisjson/apis.yaml
+- name: Zerigo
+  url: https://raw.githubusercontent.com/api-stack-providers/zerigo/master/_apisjson/apis.yaml
+- name: ZuoraAPI
+  url: https://raw.githubusercontent.com/api-stack-providers/zuoraapi/master/_apisjson/apis.yaml
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
