@@ -14,10 +14,11 @@ title: The API Stack
     {% assign number_of_orgs = 0 %}
     {% assign apis = site.data.apis %}
 		<div class="table-wrapper">
-			<table class="alt">
+			<table class="alt" width="100">
+				{% assign toggle = 1 %}
 	      {% for item in apis.include %}
 	        {% assign number_of_orgs = number_of_orgs + 1 %}
-	        <tr>
+	        <tr style="{% if toggle == 1 %}background-color: #F0F0F0;{% else %}background-color: #FFF;{% endif %}">
 	          <td width="70%">{{ item.name }}</td>
 	          <td><a href="http://{{ item.url | replace: 'https://raw.githubusercontent.com/api-stack-providers/','' | replace: '/master/_apisjson/apis.yaml','' | replace: '-','.' }}.stack.network/" target="_blank">Website</a></td>
 	          <td><a href="{{ item.url }}" target="_blank">APIs.json</a></td>
