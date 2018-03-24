@@ -13,18 +13,19 @@ title: The API Stack
     <p>I'm breaking APIs down into different ways, including by entity, topic, and building custom collections, trying to experiment with different ways of making APIs available for discovery.</p>
     {% assign number_of_orgs = 0 %}
     {% assign apis = site.data.apis %}
-    <table width="100%">
-      {% for item in apis.include %}
-        {% assign number_of_orgs = number_of_orgs + 1 %}
-        <tr>
-          <td width="70%">{{ item.name }}</td>
-          <td><a href="http://{{ item.url | replace: 'https://raw.githubusercontent.com/api-stack-providers/','' | replace: '/master/_apisjson/apis.yaml','' | replace: '-','.' }}.stack.network/" target="_blank">Website</a></td>
-          <td><a href="{{ item.url }}" target="_blank">APIs.json</a></td>
-          <td><a href="https://github.com/api-stack-providers/{{ item.url | replace: 'https://raw.githubusercontent.com/api-stack-providers/','' | replace: '/master/_apisjson/apis.yaml','' }}" target="_blank">Github</a></td>
-        </tr>
-      {% endfor %}
-    </table>
-
+		<div class="table-wrapper">
+	    <table width="100%">
+	      {% for item in apis.include %}
+	        {% assign number_of_orgs = number_of_orgs + 1 %}
+	        <tr>
+	          <td width="70%">{{ item.name }}</td>
+	          <td><a href="http://{{ item.url | replace: 'https://raw.githubusercontent.com/api-stack-providers/','' | replace: '/master/_apisjson/apis.yaml','' | replace: '-','.' }}.stack.network/" target="_blank">Website</a></td>
+	          <td><a href="{{ item.url }}" target="_blank">APIs.json</a></td>
+	          <td><a href="https://github.com/api-stack-providers/{{ item.url | replace: 'https://raw.githubusercontent.com/api-stack-providers/','' | replace: '/master/_apisjson/apis.yaml','' }}" target="_blank">Github</a></td>
+	        </tr>
+	      {% endfor %}
+	    </table>
+		</div>
     <p>This project runs 100% on Github, and you <a href="github.com/api-stack/api-stack">can access via its Github repository</a>, with a machine readable APIs.json index available for all for the organizations, and APIs included in this stack. You can access all repositories using the master APIs.json collections for this work, with each individual service provider operating as its own Github repository.</p>
     <p>It is important to remember that this is my workbench for profiling APIs, and it is all a work in progress. If you are integrating with, and consuming API definitions, it is up to you to build in healthy practices for keeping in sync, and complete within your own definition.</p>
 
