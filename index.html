@@ -18,7 +18,7 @@ title: The API Stack
         {% assign number_of_orgs = number_of_orgs + 1 %}
         <tr>
           <td width="70%">{{ item.name }}</td>
-          <td><a href="https://{{ item.url | replace: 'https://raw.githubusercontent.com/api-stack-providers/','' | replace: '/master/_apisjson/apis.yaml','' | replace: '-','.' }}.stack.network/">Website</a></td>
+          <td><a href="http://{{ item.url | replace: 'https://raw.githubusercontent.com/api-stack-providers/','' | replace: '/master/_apisjson/apis.yaml','' | replace: '-','.' }}.stack.network/">Website</a></td>
           <td><a href="{{ item.url }}">APIs.json</a></td>
           <td><a href="https://github.com/api-stack-providers/{{ item.url | replace: 'https://raw.githubusercontent.com/api-stack-providers/','' | replace: '/master/_apisjson/apis.yaml','' }}">Github</a></td>
         </tr>
