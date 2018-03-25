@@ -30,8 +30,6 @@ include:
   url: https://raw.githubusercontent.com/api-stack-providers/api-science/master/_apisjson/apis.yaml
 - name: APImetrics
   url: https://raw.githubusercontent.com/api-stack-providers/apimetrics/master/_apisjson/apis.yaml
-- name: Application Insights DUPE
-  url: https://raw.githubusercontent.com/api-stack-providers/application-insights-dupe/master/_apisjson/apis.yaml
 - name: ARIN
   url: https://raw.githubusercontent.com/api-stack-providers/arin/master/_apisjson/apis.yaml
 - name: AWS API Gateway
