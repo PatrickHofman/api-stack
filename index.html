@@ -21,7 +21,7 @@ title: The API Stack
 	        <tr style="{% if toggle == 1 %}background-color: #F0F0F0;{% assign toggle = 0 %}{% else %}background-color: #FFF;{% assign toggle = 1 %}{% endif %}">
 	          <td width="70%">{{ item.name }}</td>
 	          <td><a href="http://{{ item.url | replace: 'https://raw.githubusercontent.com/api-stack-providers/','' | replace: '/master/_apisjson/apis.yaml','' | replace: '-','.' }}.stack.network/" target="_blank">Website</a></td>
-	          <td><a href="{{ item.url }}" target="_blank">APIs.json</a></td>
+	          <td><a href="http://{{ item.url | replace: 'https://raw.githubusercontent.com/api-stack-providers/','' | replace: '/master/_apisjson/apis.yaml','' | replace: '-','.' }}.stack.network/apis.json" target="_blank">APIs.json</a></td>
 	          <td><a href="https://github.com/api-stack-providers/{{ item.url | replace: 'https://raw.githubusercontent.com/api-stack-providers/','' | replace: '/master/_apisjson/apis.yaml','' }}" target="_blank">Github</a></td>
 	        </tr>
 	      {% endfor %}
